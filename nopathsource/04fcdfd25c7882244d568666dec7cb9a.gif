@@ -1,0 +1,4338 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   
+<meta name="SiteName" content="国家税务总局"/>
+<meta name="SiteDomain" content="http://www.chinatax.gov.cn"/>
+<meta name="SiteIDCode" content="bm29000002"/>
+
+<meta name="others" content="页面生成时间 2021-07-20 18:12:40" />
+<title>国家税务总局</title>
+    <link rel="stylesheet" href="/chinatax/xhtml/css/index.css">
+    <link rel="stylesheet" href="/chinatax/xhtml/css/common_index.css">
+    <link rel="stylesheet" href="/chinatax/xhtml/css/idangerous.swiper.css">
+    <link rel="stylesheet" href="/chinatax/xhtml/css/gov_slider.css"/>
+    <script type="text/javascript" src="/chinatax/xhtml/js/jquery-1.11.3.min.js"></script>
+    <script src="/chinatax/xhtml/js/index.js"></script>
+
+    <style>
+      .mtsd_r .zxwj_b ul li.zxwj a {
+     display: block;
+     width: 100%;
+     overflow: hidden;
+     text-overflow: ellipsis;
+     -o-text-overflow: ellipsis;
+     -webkit-text-overflow: ellipsis;
+     -moz-text-overflow: ellipsis;
+     display: -webkit-box;
+     -webkit-box-orient: vertical;
+     -webkit-line-clamp: 2;
+      }
+      .tankuang{
+        width:100%;
+        height:40px;
+        line-height:40px;
+        font-size:18px;
+        background:white;
+        z-index:9999;
+        text-align:center;
+        position:absolute;
+        top:0%;
+        left:0%;
+        border-bottom:1px solid #e3e3e3;
+      }
+      .paiochuang{
+        width:150px;
+        position:fixed;
+        bottom:0;
+        right:0;
+        z-index:999;
+      }
+      .guanbi{
+        width:100%;
+        height:18px;
+        float:right;
+      }
+      .guanbi img{
+        width:48px;
+        height:18px;
+        float:right;
+      }
+      .tonggao{
+        width:100%;   
+      }
+
+      .tonggao img{    
+        width:100%;
+      }
+
+      @media screen and (max-height: 250px){
+        .paiochuang{
+          display: none!important;
+        }
+        .fixed-right-box{
+          display: none;
+        }
+      }
+      @media screen and (max-width:480px){
+        .piaochuang-zxft{
+          display: none;
+        }
+        .paiochuang{
+          display: none!important;
+        }
+        .fixed-right-box{
+          display: none;
+        }
+      }
+
+    </style>
+  </head>
+  <body>
+    <!--头部开始-->
+    <style>
+ .yddtop{
+			display: none;
+		}
+</style>
+<div class="ydrk"><a href="/eng/home.html" target="_blank">English</a></div>
+<!--顶部导航开始-->
+
+
+<div class="xtopnew yddyc">
+  <div class="xtop1new">
+    <ul class="top_lnew">
+      <li>
+        <a href="javascript:t22s()">简体</a>  |  
+        <a href="javascript:s22t()">繁体</a>  |  
+        <a href="/eng/home.html" target="_blank">English</a>  |  
+        <a href="javascript:void(0)" id="cniil_wza">网站无障碍</a>
+      </li>
+    </ul>
+    <ul class="top_rnew" style="padding-right:20px;">
+      <!--<li class="top_r_1new"><a href="/chinatax/n1269690/appindex.html" target="_blank">客户端</a></li>-->
+      <li class="top_r_2new"><a href="/chinatax/n810356/n810951/n1056633/index.html" target="_blank">微博</a></li>
+      <li class="top_r_3new"><a href="/chinatax/n810356/n810951/n1056632/index.html" target="_blank">微信</a></li>
+      <li class="top_r_4new"><a href="http://mail.chinatax.gov.cn/" target="_blank">邮箱</a></li>
+    </ul>
+  </div>
+</div>
+<script>
+  function s22t(){
+    document.cookie  = 'cmlan=tw';  //设置cokie
+    document.body.innerHTML=s2t(document.body.innerHTML);
+  }
+  function t22s(){
+    document.body.innerHTML=t2s(document.body.innerHTML);
+    //以下删除cookie
+    var date=new Date();
+    date.setTime(date.getTime()-1000)
+    document.cookie="cmlan=tw; expires="+date.toUTCString();
+  }
+  //判断是否存在名为cmlan的cookie，使用document.cookie.indexOf(“cmlan=”)来判断，如果返回值是-1，表示不存在。
+  function myfun()
+  {
+    c_start=document.cookie.indexOf("cmlan=");
+    if(c_start==-1){
+      //document.body.innerHTML=t2s(document.body.innerHTML);  //无需转化
+    }
+    else{
+      document.body.innerHTML=s2t(document.body.innerHTML);  //加载转化为繁体
+    }
+  }
+  /*用window.onload调用myfun()  网页打开时加载以下方法*/
+  window.onload=myfun;//不要括号
+</script>
+<script src="/chinatax/xhtml/js/trans.js"></script>
+<!--顶部导航结束-->
+<!--总局搜索开始-->
+
+<div class="zjssnew  yddyc">
+  <div class="gszj_cnew">
+    <div class="gszj_lnew"><a href="/chinatax/index.html" target="_blank"><img src="/chinatax/xhtml/images/public/sy_gszj_20210201.png"/></a></div>
+    <div class="gszj_rnew">
+      <div class="sousuonew">
+        <input id="qt1" type="text" value="请输入关键字" onfocus="if(value=='请输入关键字') {value=''}" onblur="if (value=='') {value='请输入关键字'}">
+        <a style="cursor: pointer;"  id="sosbtn">
+          <img src="/chinatax/xhtml/images/public/toubu_s.png" alt="">搜索
+        </a>
+      </div>
+
+      <div class="reci">
+
+      </div>
+    </div>
+  </div>
+
+</div>
+<!-- 20210526移动端首页头部修改-->
+<!--移动端头部-->
+		<div class="yddtop">
+			<div class="topleft">
+				<a href="/chinatax/index.html" target="_blank"><img src="/chinatax/xhtml/images/public/sjlogo.png"></a>
+			</div>
+			<div class="topright">
+				<!--<a style="cursor: pointer;" id="dsousuo">
+					<img src="http://www.chinatax.gov.cn/chinatax/xhtml/images/public/toubu_s.png" alt="">
+				</a>-->
+				<a class="newtp1" href="javascript:;">
+            <img class="img1" src="/chinatax/xhtml/images/public/toubu_s.png">
+            <img class="img2" src="/chinatax/xhtml/images/public/toubu_s1.png">
+        </a>
+				<div class="en">
+					<a href="/eng/home.html" target="_blank">EN</a>
+				</div>
+			</div>
+			<div class="clear"></div>
+			<div class="sousuonew sjsousuo">
+              <div class="inputdiv">
+                <input id="qt2" type="text" value="请输入关键字" onfocus="if(value=='请输入关键字') {value=''}" onblur="if (value=='') {value='请输入关键字'}">
+						<a style="cursor: pointer;float: left;" id="sosbtn" class="sjsous">
+							<img src="/chinatax/xhtml/images/public/toubu_s.png" alt="">
+						</a>
+              </div>
+						
+					</div>
+
+		</div>
+
+<script> 
+  $(function(){
+    $("#sosbtn").click(function(){ 
+      var qt = $('#qt1').val();
+      var qtTrim = qt.replace(/\s*/g,'');
+      if(qt == "请输入关键字"){
+        var searchword = "";
+        alert("请输入关键字")
+      }else if(qt == ""){
+        alert("请输入关键字")
+      }else if(qtTrim.length==1){
+        alert("请您输入2个以上的关键字进行搜索");
+      }else{
+        var searchword = encodeURI(qt);
+        var searchurl = '/s?siteCode=bm29000002'+'&qt='+searchword;
+        window.open(searchurl);
+      }
+    }) 
+    $('#qt1').bind('keypress', function (event) { 
+      if (event.keyCode == "13") { 
+        $("#sosbtn").click();
+      }
+    })
+    
+    $(".sjsous").click(function() {
+					var qt = $('#qt2').val();
+					var qtTrim = qt.replace(/\s*/g, '');
+					if(qt == "请输入关键字") {
+						var searchword = "";
+						alert("请输入关键字")
+					} else if(qt == "") {
+						alert("请输入关键字")
+					} else if(qtTrim.length == 1) {
+						alert("请您输入2个以上的关键字进行搜索");
+					} else {
+						var searchword = encodeURI(qt);
+						var searchurl = '/s?siteCode=bm29000002' + '&qt=' + searchword;
+						window.open(searchurl);
+					}
+				})
+			
+				$('#qt2').bind('keypress', function(event) {
+					if(event.keyCode == "13") {
+						$(".sjsous").click();
+					}
+				})
+				$(".img1").click(function(){
+					$(this).css("display","none");
+					$(".img2").css("display","block");
+					$(".sjsousuo").css("display","block")
+				})
+				$(".img2").click(function(){
+					$(this).css("display","none");
+					$(".img1").css("display","block");
+					$(".sjsousuo").css("display","none")
+				})
+  });
+</script>
+<script>
+  window.console = window.console || (function(){ 
+    var c = {}; c.log = c.warn = c.debug = c.info = c.error = c.time = c.dir = c.profile = c.clear = c.exception = c.trace = c.assert =  function(){}; 
+    return c; 
+  })();
+  // 20200411 更换热词接口
+  $.get("/api/getHotWord?siteCode=bm29000002&tab=all&key=F114B505827DFA8EBCAE41DE0D729EE5",function(data,status){
+    var tempWord = data.hotword;
+    console.log(tempWord)
+    if(tempWord && tempWord != ""){
+      //解析热搜词 逗号分隔
+      var wordArray = tempWord;
+      var lis = "<span>本站热词：</span>";
+      var count = 0;
+      for(var i=0; i<wordArray.length&&i<10; i++){
+        if(wordArray[i] != ""){
+          // var qt = encodeURIComponent(wordArray[i]).replace(/%E2%80%8B|%E2%80%8E/g,"");
+          var qt = wordArray[i].word;
+          var tempSUrl = wordArray[i].url;
+          lis+= "<a target='_blank' href='/"+tempSUrl+"' class='fl cursor'>" + qt + "</a>";
+          count++;
+        }
+      }
+      if(count > 0){
+        $(".reci").html(lis);
+        $(".reci").show();
+      }
+    }else{
+      console.log("----------hotWordFun,tempWord:"+tempWord);
+    }
+
+  });
+
+</script>
+<!--总局搜索结束-->
+<div class="gszjnew">
+  <div class="logo sjxsnew fl gszj_lnew"><img src="/chinatax/xhtml/images/public/sjlogo.png"/></div>
+   <div class="ssk sjxsnew" >
+    		<a href="/chinatax/xhtml/"><img src="/chinatax/xhtml/images/public/psousuo.jpg"/></a>
+  		</div>
+  		<div class="ywk sjxsnew"><a href="/eng/home.html" target="_blank">English</a></div>
+
+</div>
+
+<!--页面导航开始-->
+<div class="tab yddyc">
+  <ul class="ul_navnew w1100">
+    <li class="zjgk">
+      <a class="tab" href="/chinatax/n810209/index.html"  target="_blank">总局概况</a>
+      <div class="zjgk_xl xl">
+        <div class="zjgk_xl_l">
+          <h3><a href="/chinatax/n810209/n810575/index.html" target="_blank">领导专栏</a></h3>
+          <ul>
+            <li>
+              <span>局　　　长　：　</span>
+              <a href="/chinatax/n810209/n810575/n811941/index.html" target="_blank">王　军</a>
+            </li>
+            <!--<li>
+              <span>副　局　长　：　</span>
+              <a href="" target="_blank">于春生</a>
+            </li>-->
+
+            <li class="jjjc">
+              <span>纪检监察组<br>组　　　长　：　</span>
+              <a href="/chinatax/n810209/n810575/c101659/index.html" target="_blank">吴海英</a>
+            </li>
+            <li>
+              <span>副　局　长　：　</span>
+              <a href="/chinatax/n810209/n810575/n2006975/index.html" target="_blank">任荣发</a><br/>                            
+            </li>
+             <li>
+              <span>副　局　长　：　</span>
+              <a href="/chinatax/n810209/n810575/c101795//index.html" target="_blank">姚来英</a><br/>                            
+            </li>
+            <li>
+              <span>副　局　长　：　</span>
+              <a href="/chinatax/n810209/n810575/n2428117/index.html" target="_blank">刘丽坚</a>
+            </li>
+            <li>
+              <span>副　局　长　：　</span>
+              <a href="/chinatax/n810209/n810575/n4443519/index.html" target="_blank">王道树</a>
+            </li>
+            <li>
+              <span>总 经 济 师　：</span>
+              <a href="/chinatax/n810209/n810575/c101702/index.html" target="_blank">郝军辉</a>
+            </li>
+            <li>
+              <span>总 会 计 师　：</span>
+              <a href="/chinatax/n810209/n810575/c101704//index.html" target="_blank">饶立新</a>
+            </li>
+          </ul>
+        </div>
+
+
+        <!-- 20200426 总局概况 新增 派出机构 -->
+        <div class="zjgk_xl_r_new clearfix">
+          <style type="text/css">
+            .xl .zjgk_xl_l ul li{
+              margin-bottom: 12px;
+            }
+            .xl .zjgk_xl_l{
+              margin-left: 10px;
+              width: 210px;
+            }
+            .zjgk_xl_r_new{
+              float: left;
+              width: 775px;
+
+            }
+            .xl .zjgk_xl_r_new .zjgk_xl_c{
+              width: 100%;
+              height: auto;
+            }
+            /* 480 */
+            .xl .zjgk_xl_r_new .zjgk_xl_c .gund{
+              height: 270px;
+            }
+            .xl .zjgk_xl_r_new .zjgk_xl_r{
+              width: 780px;
+              margin-top: 0px;
+            }
+
+            .zjgk_xl_r_t{
+              float: left;
+              width: 260px;
+            }
+            .zjgk_xl_r_b{
+              float: left;
+              width: 260px;
+              margin-right: 0;
+            }
+            .xl .zjgk_xl_r ul li{
+              width: 120px;
+              margin-right: 10px;
+              font-size: 14px;
+            }
+            .xl .zjgk_xl_r ul{
+              width: 260px;
+            }
+            .xl .zjgk_xl_r ul{
+              display: none;
+            }
+            .xl .zjgk_xl_r h3{
+              display: none;
+            }
+            .tab ul li .xl .zjgk_xl_r a.zjgk-icon{
+              margin-top: 20px;
+            }
+            
+            .gszj_rnew{
+            width:320px;
+            }
+            .sousuonew{
+            width:330px;
+              
+            }
+            .sousuonew input{
+            width:260px;
+              border-radius:5px 0 0 5px;
+            }
+            #sosbtn{
+            border-radius:0 5px  5px 0;
+            }
+            .gszj_lnew{
+              margin-left:30px;
+            }
+          </style>
+          <div class="zjgk_xl_c">
+            <h3><a href="/chinatax/n810209/n810580//index.html" target="_blank">主要职能</a></h3>
+            <div class="gund">
+              <div class="gund_c">
+
+                  <p style="text-align: justify; text-indent: 2em">国家税务总局是国务院直属机构，为正部级。主要职责是：</p>
+<p style="text-align: justify; text-indent: 2em">（一）具体起草税收法律法规草案及实施细则并提出税收政策建议，与财政部共同上报和下发，制订贯彻落实的措施。负责对税收法律法规执行过程中的征管和一般性税政问题进行解释，事后向财政部备案。</p>
+<p style="text-align: justify; text-indent: 2em">（二）承担组织实施税收及社会保险费、有关非税收入的征收管理责任，力争税费应收尽收。</p>
+<p style="text-align: justify; text-indent: 2em">（三）参与研究宏观经济政策、中央与地方的税权划分并提出完善分税制的建议，研究税负总水平并提出运用税收手段进行宏观调控的建议。</p>
+<p style="text-align: justify; text-indent: 2em">（四）负责组织实施税收征收管理体制改革，起草税收征收管理法律法规草案并制定实施细则，制定和监督执行税收业务、征收管理的规章制度，监督检查税收法律法规、政策的贯彻执行。</p>
+<p style="text-align: justify; text-indent: 2em">（五）负责规划和组织实施纳税服务体系建设，制定纳税服务管理制度，规范纳税服务行为，制定和监督执行纳税人权益保障制度，保护纳税人合法权益，履行提供便捷、优质、高效纳税服务的义务，组织实施税收宣传，拟订税务师管理政策并监督实施。</p>
+<p style="text-align: justify; text-indent: 2em">（六）组织实施对纳税人进行分类管理和专业化服务，组织实施对大型企业的纳税服务和税源管理。</p>
+<p style="text-align: justify; text-indent: 2em">（七）负责编报税收收入中长期规划和年度计划，开展税源调查，加强税收收入的分析预测，组织办理税收减免等具体事项。</p>
+<p style="text-align: justify; text-indent: 2em">（八）负责制定税收管理信息化制度，拟订税收管理信息化建设中长期规划，组织实施金税工程建设。</p>
+<p style="text-align: justify; text-indent: 2em">（九）开展税收领域的国际交流与合作，参加国家（地区）间税收关系谈判，草签和执行有关的协议、协定。</p>
+<p style="text-align: justify; text-indent: 2em">（十）办理进出口商品的税收及出口退税业务。</p>
+<p style="text-align: justify; text-indent: 2em">（十一）以税务总局为主、与省区市党委和政府对全国税务系统实行双重领导。</p>
+<p style="text-align: justify; text-indent: 2em">（十二）承办党中央、国务院交办的其他事项。</p>
+
+              </div>
+            </div>
+          </div>
+          <div class="zjgk_xl_r">
+            <div class="zjgk_xl_r_t">
+              <a href="/chinatax/n810209/n810585/index.html"  target="_blank" class="zjgk-icon"><img src="/chinatax/xhtml/images/public/zjgk-icon-20200424-01.jpg"></a>
+              <!--<h3><a href="/chinatax/n810209/n810585/index.html" target="_blank">内设机构</a></h3>-->
+
+            </div>
+            <div class="zjgk_xl_r_b">
+              <a href="/chinatax/n810209/n810590/index.html"  target="_blank" class="zjgk-icon"><img src="/chinatax/xhtml/images/public/zjgk-icon-20200424-02.jpg"></a>
+              <!--<h3><a href="/chinatax/n810209/n810590/index.html" target="_blank">直属单位</a></h3>-->
+
+            </div>
+            <div class="zjgk_xl_r_b">
+              <a href="/chinatax/n810209/c101645/index.html"  target="_blank" class="zjgk-icon"><img src="/chinatax/xhtml/images/public/zjgk-icon-20200424-03.jpg"></a>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="xxgk">
+      <a class="tab" href="/chinatax/n810214/index.html"  target="_blank">信息公开</a>
+      <div class="xxgk_xl xl">
+        <div class="xxgk_t">
+          <div class="xxgk_t_l">
+            <div class="xxk_t">
+              <div class="xxk_t_1 active"><a href="/chinatax/n810214/n810641/n2985871/n2986165/n810611////index.html"  target="_blank">人事任免</a></div>
+              <div class="xxk_t_2"><a href="/chinatax/n810214/n810621/index.html">政府采购</a></div>
+              <div class="xxk_t_3" style='display:none;'><a href="/chinatax/n810214/n810616/index.html">财政信息</a></div>
+            </div>
+            <div class="xxk_l">
+              <ul class="xxkl_1">
+
+                  <li><a href="/chinatax/n810214/n810641/n2985871/n2986165/n810611/c5166508/content.html" target="_blank"  >国家税务总局任免工作人员（2021年7月14日）</a></li>
+
+                  <li><a href="/chinatax/n810214/n810641/n2985871/n2986165/n810611/c5166507/content.html" target="_blank"  >国家税务总局任免工作人员（2021年7月14日）</a></li>
+
+                  <li><a href="/chinatax/n810214/n810641/n2985871/n2986165/n810611/c5165539/content.html" target="_blank"  >国家税务总局任免工作人员（2021年6月18日）</a></li>
+
+                  <li><a href="/chinatax/n810214/n810641/n2985871/n2986165/n810611/c5165359/content.html" target="_blank"  >国家税务总局任免工作人员（2021年6月12日）</a></li>
+
+              </ul>
+              <ul class="xxkl_2">
+
+                  <li><a href="/chinatax/n810214/n810641/n2985871/n2986170/c101663/c5166612/content.html" target="_blank"  >2021年度税务总局运维场所基础环境设施维保项目竞争性磋商公告</a></li>
+
+                  <li><a href="/chinatax/n810214/n810641/n2985871/n2986170/c101663/c5166390/content.html" target="_blank"  >国家税务总局各办公区、其他部委之间联网项目单一来源采购成交公告</a></li>
+
+                  <li><a href="/chinatax/n810214/n810641/n2985871/n2986170/c101663/c5166082/content.html" target="_blank"  >国家税务总局2021-2023年税务制服面料和标志采购项目第12-2包（税务钮扣1.5号、税务钮扣1.8号、税务钮扣2.2号、税务四件扣-南区）、14-1包（税务大檐帽、税务女帽-北区）终止公告</a></li>
+
+                  <li><a href="/chinatax/n810214/n810641/n2985871/n2986170/c101663/c5165919/content.html" target="_blank"  >2021年印花税票印制项目合同公告</a></li>
+
+              </ul>
+              <ul class="xxkl_3"  style='display:none;'>
+
+              </ul>
+            </div>
+          </div>
+          <div class="xxgk_t_r">
+            <div class="xxg_t">
+              <div class="xxg_t_1 active"><a href="/chinatax/n810214/n810606//index.html"  target="_blank">通知公告</a></div>
+              <div class="xxg_t_2"><a href="/chinatax/n810214/n810631/index.html">税收统计</a></div>
+              <div class="xxg_t_3"><a href="/chinatax/n810214/n2015391/index.html">建议提案办理</a></div>
+            </div>
+            <div class="xxk_r">
+              <ul class="xxkr_1">
+
+                  <li><a href="/chinatax/n810214/n810641/n2985871/n2986170/c101663/c5166612/content.html" target="_blank"  >2021年度税务总局运维场所基础环境设施维保项目竞争性磋商公告</a></li>
+
+                  <li><a href="/chinatax/n810214/n810641/n2985871/n2986170/c101661/c5166609/content.html" target="_blank"  >国家税务总局机关通用技术服务项目招标公告</a></li>
+
+                  <li><a href="/chinatax/n810214/n810641/n2985871/n2986170/c101662/c5166432/content.html" target="_blank"  >国家税务总局2021-2023年税务制服面料和标志采购项目第1、2包中标公告</a></li>
+
+                  <li><a href="/chinatax/n810214/n810641/n2985871/n2986170/c101663/c5166390/content.html" target="_blank"  >国家税务总局各办公区、其他部委之间联网项目单一来源采购成交公告</a></li>
+
+              </ul>
+              <ul class="xxkr_2">
+
+                  <li><a href="/chinatax/n810219/n810724/c5165925/content.html" target="_blank"  >今年前5个月全国新办涉税市场主体达522.25万户</a></li>
+
+                  <li><a href="/chinatax/n810214/n810631/c5165806/content.html" target="_blank"  >2021年前4个月全国累计新办涉税市场主体达413万户</a></li>
+
+                  <li><a href="/chinatax/n810214/n810631/c5165807/content.html" target="_blank"  >透过增值税发票数据看微观经济运行</a></li>
+
+                  <li><a href="/chinatax/n810219/n810724/c5164434/content.html" target="_blank"  >2021年纳税信用评价结果显示：我国企业纳税信用稳中向好</a></li>
+
+              </ul>
+              <ul class="xxkr_3">
+
+                  <li><a href="/chinatax/n810214/n2015391/c5166582/content.html" target="_blank"  >对十三届全国人大四次会议第4643号建议的答复</a></li>
+
+                  <li><a href="/chinatax/n810214/n2015391/c5159615/content.html" target="_blank"  >国家税务总局2020年建议提案办理工作情况</a></li>
+
+                  <li><a href="/chinatax/n810214/n2015391/c5158396/content.html" target="_blank"  >对十三届全国人大三次会议第8269号建议的答复</a></li>
+
+                  <li><a href="/chinatax/n810214/n2015391/c5158271/content.html" target="_blank"  >关于政协十三届全国委员会第三次会议第4934号（经济发展类372号）提案答复的函</a></li>
+
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="xxgk_b">
+          <h3><a href="/chinatax/n810214/n810641/index.html" target="_blank">政府信息公开</a></h3>
+          <ul>
+            <!--<li class="aaa"><a href="/chinatax/n810214/n810641/n810687///index.html"></a></li>
+<li class="bbb"><a href="/chinatax/n810214/n810641/n810692///index.html"></a></li>
+<li class="eee"><a target="_blank" href="/chinatax/baseDirectory/n2985871"></a></li>
+<li class="ddd"><a href="/chinatax/n810214/n810641/n810707/index.html"></a></li>
+<li class="ccc"><a href="/chinatax/n810214/n810641/n810702///index.html"></a></li>-->
+
+            <!-- 新政府信息公开地址 -->
+            <li class="aaa"><a href="/chinatax/n810214/n810641/index.html?tab=gkzn" target="_blank" ></a></li>
+            <li class="bbb"><a href="/chinatax/n810214/n810641/index.html?tab=gkzd" target="_blank" ></a></li>
+            <li class="eee"><a href="/chinatax/n810214/n810641/index.html?tab=zdgk" target="_blank" ></a></li>
+            <li class="ddd"><a href="/chinatax/n810214/n810641/index.html?tab=gknb" target="_blank" ></a></li>
+            <li class="ccc"><a href="/chinatax/n810214/n810641/index.html?tab=gksq" target="_blank" ></a></li>
+
+          </ul>
+        </div>
+      </div>
+    </li>
+    <li class="xwfb">
+      <a class="tab" href="/chinatax/n810219//index.html"  target="_blank">新闻发布</a>
+      <div class="xwfb_xl xl">
+        <div class="xwfb_c">
+          <div class="xwfb_left">
+            <div class="xwfb_xxk1">
+              <div class="xwfb_xxk1_t">
+                <div class="xxg_t_1 active"><a href="/chinatax/n810219/n810724/common_list_swxw.html"  target="_blank">税务新闻</a></div>
+                <div class="xxg_t_2"><a href="/chinatax/n810219/n1865308/common_xwfb_list.html">新闻发布会</a></div>
+              </div>
+              <div class="xwfb_xxk1_b">
+                <ul class="xwfb_1">
+
+                    <li><a href="/chinatax/n810219/n810724/c5166546/content.html" target="_blank"  >全国税务系统司局级主要领导干部党史学习教育专题读书班在京举办 深入学习贯彻习近平总书记“七一”重要讲话精神 在新的征程上奋力谱写税收现代化建设新篇章</a><span>[07-16]</span></li>
+
+                    <li><a href="/chinatax/n810219/n810724/c5166698/content.html" target="_blank"  >国家税务总局机关举办“党在我心中”党史知识竞赛决赛</a><span>[07-19]</span></li>
+
+                    <li><a href="/chinatax/n810219/n810724/c5166629/content.html" target="_blank"  >跨省“易”办税 活力“通”南北——税务系统以推进涉税事项跨省“通办”促税务“放管服”改革深化</a><span>[07-19]</span></li>
+
+                    <li><a href="/chinatax/n810219/n810724/c5166548/content.html" target="_blank"  >中共中央宣传部举行中外记者见面会 5名税务党员讲述“坚守初心 税收为民”故事</a><span>[07-16]</span></li>
+
+                </ul>
+                <ul class="xwfb_2">
+
+                    <li><a href="/chinatax/n810219/n810724/c5164734/content.html" target="_blank"  >国家税务总局召开新闻发布会：办实事解难题持续优化税费服务 组合拳强震慑严厉打击涉税违法</a><span>[05-28]</span></li>
+
+                    <li><a href="http://www.scio.gov.cn/xwfbh/xwbfbh/wqfbh/44687/45158/wz45160/Document/1701099/1701099.htm" target="_blank"  >国新办就《关于进一步深化税收征管改革的意见》有关情况举行发布会</a><span>[03-29]</span></li>
+
+                    <li><a href="/chinatax/n810219/n810724/c5161751/content.html" target="_blank"  >税务总局2021年“我为纳税人缴费人办实事暨便民办税春风行动”新闻发布会实录</a><span>[02-24]</span></li>
+
+                    <li><a href="/chinatax/n810219/n810724/c5161750/content.html" target="_blank"  >税务总局举行新闻发布会 启动“我为纳税人缴费人办实事暨便民办税春风行动”</a><span>[02-24]</span></li>
+
+                </ul>
+              </div>	
+            </div>
+            <div class="xwfb_xxk2">
+              <div class="xwfb_xxk2_t">
+                <div class="xxg_t_1 active"><a href="/chinatax/n810219/n810780/common_mtsd_list.html"  target="_blank">媒体视点</a></div>
+                <div class="xxg_t_2"><a href="/chinatax/n810219/n810739/common_xwfb_list.html"  target="_blank">各地动态</a></div>
+              </div>
+              <div class="xwfb_xxk2_b">
+                <ul class="xwfb_1">
+
+                    <li><a href="/chinatax/n810219/n810780/c5166726/content.html" target="_blank"  >[经济日报]跨省“易”办税 活力“通”南北</a><span>[07-20]</span></li>
+
+                    <li><a href="/chinatax/n810219/n810780/c5166724/content.html" target="_blank"  >[科技日报]做减税降费政策举措落地生根的“护航者”——记“坚守初心 税收为民”中外记者见面会</a><span>[07-20]</span></li>
+
+                    <li><a href="/chinatax/n810219/n810780/c5166722/content.html" target="_blank"  >[人民网]税务总局：8月1日起全国推行增值税、消费税及附加税费申报表整合</a><span>[07-20]</span></li>
+
+                    <li><a href="/chinatax/n810219/n810780/c5166719/content.html" target="_blank"  >[第一财经]税务稽查办案程序升级 不断提升税务执法精确度</a><span>[07-20]</span></li>
+
+                </ul>
+                <ul class="xwfb_2">
+
+                    <li><a href="/chinatax/n810219/n810739/c5166628/content.html" target="_blank"  >宁夏：精准落实政策 提速出口退税</a><span>[07-19]</span></li>
+
+                    <li><a href="/chinatax/n810219/n810739/c5166563/content.html" target="_blank"  >河北：32项便利化措施为市场主体添活力</a><span>[07-16]</span></li>
+
+                    <li><a href="/chinatax/n810219/n810739/c5166511/content.html" target="_blank"  >吉林：税收相伴企业创新路</a><span>[07-15]</span></li>
+
+                    <li><a href="/chinatax/n810219/n810739/c5166510/content.html" target="_blank"  >四川：“放管服”为市场主体增活力</a><span>[07-15]</span></li>
+
+                </ul>
+              </div>	
+            </div>
+          </div>
+          <div class="xwfb_right">
+            <h3><a href="/chinatax/n810219/n810744//index.html" target="_blank">专题专栏</a></h3>
+            <div class="xwfb_box">
+              <div class="xwfb_box_l">
+                <!--<div class="ls"><a href="/chinatax/c101500/4conference.html" target="_blank"></a></div>-->
+                <style>
+                  .xwfb_xl .xwfb_c .xwfb_right .xwfb_box .xwfb_box_l .lc,.xwfb_xl .xwfb_c .xwfb_right .xwfb_box .xwfb_box_l .lb{
+                    height:68px;
+                    line-height:68px;
+                  }
+                </style>
+                <div class="lc"><a href="/chinatax/n810219/n810744/c101706/index.html" target="_blank">学习贯彻十九届五中全会精神</a></div>
+                <div class="lb"><a href="/chinatax/n810219/n810744/n4016641/index.html" target="_blank">减税降费在行动</a></div>
+              </div>
+              <div class="xwfb_box_c">
+                <div class="cs"><a href="/chinatax/n810219/n810744/c101510/index.html" target="_blank" style='line-height: 17px;margin-top:18px;'>助力“六稳”“六保”<br> 税务人在行动</a></div>
+                <div class="cb"><a href="/chinatax/n810219/n810744/n3752930/index.html" target="_blank" style="line-height: 17px;margin-top:18px;">个人所得综合所得<br>年度汇算</a></div>
+              </div>
+              <div class="xwfb_box_r">
+                <div class="rs"><a href="/chinatax/n810219/n810744/c101671/index.html" target="_blank">税收助力脱贫攻坚</a></div>
+                <div class="rb"><a href="/chinatax/c101584/jieduanxingjianmianshebaofei.html" target="_blank" style='line-height: 17px;margin-top:18px;'>阶段性减免企业社保费<br>工作专栏</a></div>
+              </div>
+            </div>
+            <div class="xwfb_xia">
+              <div class="xia_t">
+                <div class="xxg_t_1" style='display:none;'><a href="/chinatax/n810219/n810729/common_imglist.html">图片新闻</a></div>
+                <div class="xxg_t_2  active"><a href="/chinatax/n810219/n810734/common_imglist5.html">视频新闻</a></div>
+              </div>
+              <div class="xia_b">
+                <div class="xia_b_1 img_list" style='display:none;'>
+                  <iframe width="478" height="90" scrolling="no" frameborder="0" src="/chinatax/c101402/tpxw_index.html"></iframe>
+                </div>
+                <div class="xia_b_2 img_list" style='display:block;'>
+                  <iframe width="478" height="90" scrolling="no" frameborder="0" src="/chinatax/c101403/spxw_index.html"></iframe>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="sszc">
+      <a class="tab" href="/chinatax/n810341/index.html"  target="_blank">税收政策</a>
+      <div class="sszc_xl xl">
+        <div class="sszc_xl_l">
+          <div class="sszc_lt">
+            <div class="xxk_t">
+              <div class="xxk_t_1 active"><a href="/chinatax/n810341/n810755/common_zxwj_list.html"  target="_blank">最新文件</a></div>
+            </div>
+            <div class="xxk_l">
+              <ul class="xxkl_1">
+
+                  <li><a href="/chinatax/n810341/n810825/c101434/c5166617/content.html" target="_blank"  >税务稽查案件办理程序规定</a></li>
+
+                  <li><a href="/chinatax/n810341/n810825/c101434/c5166308/content.html" target="_blank"  >关于海南自由贸易港进出岛航班加注保税航油政策的通知</a></li>
+
+                  <li><a href="/chinatax/n359/c5166427/content.html" target="_blank"  >关于增值税 消费税与附加税费申报表整合有关事项的公告</a></li>
+
+                  <li><a href="/chinatax/n810341/n810825/c101434/c5166624/content.html" target="_blank"  >关于公布全文和部分条款失效废止的税务规范性文件目录的公告</a></li>
+
+              </ul>
+            </div>
+          </div>
+          <div class="sszc_lb">
+            <div class="xxk_t">
+              <div class="xxk_t_1 active"><a href="/chinatax/n810341/n810760/common_zcjd_list.html"  target="_blank">政策解读</a></div>
+            </div>
+            <div class="xxk_l">
+              <ul class="xxkl_1">
+
+                  <li><a href="/chinatax/n810341/n810760/c5166625/content.html" target="_blank"  >关于《国家税务总局关于公布全文和部分条款失效废止的税务规范性文件目录的公告》的解读</a></li>
+
+                  <li><a href="/chinatax/n810341/n810760/c5166618/content.html" target="_blank"  >关于《国家税务总局关于部分税务证明事项实行告知承诺制 进一步优化纳税服务的公告》的解读</a></li>
+
+                  <li><a href="/chinatax/n810341/n810760/c5166616/content.html" target="_blank"  >关于《税务稽查案件办理程序规定》的解读</a></li>
+
+                  <li><a href="/chinatax/n810341/n810760/c5166430/content.html" target="_blank"  >关于《国家税务总局关于增值税 消费税与附加税费申报表整合有关事项的公告》的解读</a></li>
+
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="sszc_xl_r">
+          <div class="sszc_rt">
+            <h3>
+              <a href="/chinatax/n810341/n810765/swgb.html" target="_blank">税务公报</a>
+              <!--<span>国家税务总局公报</span>-->
+            </h3>
+            <ul>
+
+                <li><a href="/chinatax/communique/202104" target="_blank"  >2021年第4期</a></li>
+
+                <li><a href="/chinatax/communique/202103" target="_blank"  >2021年第3期</a></li>
+
+                <li><a href="/chinatax/communique/202102" target="_blank"  >2021年第1~2期</a></li>
+
+                <li><a href="/chinatax/communique/202012" target="_blank"  >2020年第12期</a></li>
+
+                <li><a href="/chinatax/communique/202011" target="_blank"  >2020年第11期</a></li>
+
+                <li><a href="/chinatax/communique/202010" target="_blank"  >2020年第10期</a></li>
+
+                <li><a href="/chinatax/communique/202009" target="_blank"  >2020年第9期</a></li>
+
+                <li><a href="/chinatax/communique/202008" target="_blank"  >2020年第8期</a></li>
+
+                <li><a href="/chinatax/communique/202007" target="_blank"  >2020年第7期</a></li>
+
+            </ul>
+          </div>
+          <div class="sszc_rb">
+            <h3>
+              <a href="/chinatax/n810341/n810770/common_list_ssty.html" target="_blank">税收条约</a>
+              <!--<span>我国签订的避免双重征税协定</span>-->
+            </h3>
+            <ul>
+              <li><a href="/chinatax/n810341/n810770/c1153042/content.html" target="_blank">日本</a></li>
+
+              <li><a href="/chinatax/n810341/n810770/c1153055/content.html" target="_blank">美国</a></li>
+
+              <li><a href="/chinatax/n810341/n810770/c1153070/content.html" target="_blank">法国</a></li>
+
+              <li><a href="/chinatax/n810341/n810770/c1152963/content.html" target="_blank">英国</a></li>
+
+              <li><a href="/chinatax/n810341/n810770/c1152882/content.html" target="_blank">比利时</a></li>
+
+              <li><a href="/chinatax/n810341/n810770/c1152685/content.html" target="_blank">德国</a></li>
+
+              <li><a href="/chinatax/n810341/n810770/c1153105/content.html" target="_blank">马来西亚</a></li>
+
+              <li><a href="/chinatax/n810341/n810770/c1153116/content.html" target="_blank">挪威</a></li>
+
+              <li><a href="/chinatax/n810341/n810770/c1153185/content.html" target="_blank">意大利</a></li>
+
+            </ul>
+          </div>
+        </div>			
+      </div>
+    </li>
+    <li class="nsfw">
+      <a class="tab" href="/chinatax/n810346/index.html"  target="_blank">纳税服务</a>
+      <div class="nsfw_xl nsfw_xl_20200407 xl" >
+
+        <style type="text/css">
+          .ul_navnew .xl{
+            height: 457px;
+          }
+          .top_text,.button_text{
+            display: none;
+          }
+          .nsfw_xl_20200407{
+            padding: 20px 10px 0 10px;
+            width: 980px;
+          }
+          .nsfw_xl_20200407 .tx{
+            color: rgb(255, 255, 255);
+            font-size: 16px;
+            line-height: 52px;
+            padding-left: 27px;
+            height: 52px;
+            background: url(/chinatax/xhtml/images/public/sy_blue.jpg) 0px 0px no-repeat;text-align:left;
+            margin-bottom: 10px;
+            text-align: center;
+            margin-bottom: 10px;
+            width: 110px;
+            padding-left:0;
+          }
+          .nsfw_xl_top{
+            margin-bottom: 5px;
+          }
+          .nsfw_xl_top,.nsfw_xl_bottom{
+            width: 1020px;
+          }
+          .nsfw_xl_section{
+            float: left;
+            width: 470px;
+            margin-right:40px;
+          }
+
+
+          .nsfw_xl_20200407 .nsfw_xl_list ul{
+            width: 500px;
+          }
+          .nsfw_xl_20200407 .nsfw_xl_list li{
+            float: left;
+            width: 225px;
+            height: 66px;
+            margin-right: 20px;
+            line-height: 66px;
+            margin-bottom: 20px;
+          }
+          .nsfw_xl_20200407 .nsfw_xl_list li img{
+            margin-right: 5px;
+          }
+          .nsfw_xl_section_1 .nsfw_xl_list li,.nsfw_xl_section_1 .nsfw_xl_list li:hover{
+            background-color: #ebf6fc;
+          }
+          .nsfw_xl_section_2 .nsfw_xl_list li,.nsfw_xl_section_2 .nsfw_xl_list li:hover{
+            background-color: #f2f2f2;
+          }
+          .nsfw_xl_20200407 .nsfw_xl_list li a{
+            display: block;
+            width: 100%;
+            height: 100%;
+            vertical-align: middle;
+            text-align: center;
+            color: #333;
+            font-size: 16px;
+          }
+          .nsfw_xl_20200407 .nsfw_xl_hygq_list{
+
+          }
+          .nsfw_xl_20200407 .nsfw_xl_hygq_list li,.nsfw_xl_20200407 .nsfw_xl_hygq_list li:hover{
+            float: none;
+            width: auto;
+            text-align: left;
+            background: url(/chinatax/xhtml/images/index/listbg.png) no-repeat 5px 15px;
+            line-height: 26px;
+            padding-left: 16px;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            overflow: hidden;
+          }
+          .nsfw_xl_20200407 .nsfw_xl_hygq_list li a{
+            font-size: 16px;
+            line-height: 32px;
+            color: #333;
+            font-weight: normal;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            overflow: hidden;
+          }
+
+
+          .nsfw_xl_section_list{
+            width: 490px;
+          }
+          .nsfw_xl_clo2_list{
+            float: left;
+            width: 225px;
+            margin-right: 20px;
+          }
+          .nsfw_xl_clo2_temp{
+            width: 100%;
+          }
+          .nsfw_xl_clo2_temp ul{
+            width: 100%;
+
+          }
+          .nsfw_xl_clo2_temp ul li,.nsfw_xl_clo2_temp ul li:hover{
+            float: left;
+            text-align: center;
+            width: 50%;
+            background-color: #ebf6fc;
+            padding: 15px 0 10px 0;
+          }
+          .nsfw_xl_clo2_temp ul li img{
+            display: block;
+            margin: 0 auto 7px;
+          }
+          .nsfw_xl_clo2_temp ul li span{
+            color: #333;
+            font-size: 16px;
+          }
+          .ul_navnew{
+            position: relative;
+          }
+          .zjgk_xl,.xxgk_xl,.xwfb_xl,.sszc_xl,.nsfw_xl,.swsp_xl,.hdjl_xl{
+            top:35px;
+          }
+        </style>
+        <!--  top  -->
+        <div class="nsfw_xl_top clearfix">
+          <div class="nsfw_xl_section nsfw_xl_section_1">
+            <h3 class="tx">办税</h3>
+            <div class="nsfw_xl_list">
+              <ul>
+                <li>
+                  <a href="https://12366.chinatax.gov.cn/bsznBLH/main" target="_blank">
+                    <img src="/chinatax/xhtml/images/nsfw/nsfw-s-icon_01.png">
+                    <span>办税指南</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://12366.chinatax.gov.cn/bsfw/onlinetaxation/main" target="_blank">
+                    <img src="/chinatax/xhtml/images/nsfw/nsfw-s-icon_02.png">
+                    <span>网上办税</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://12366.chinatax.gov.cn/bsfw/calendar/main" target="_blank">
+                    <img src="/chinatax/xhtml/images/nsfw/nsfw-s-icon_03.png">
+                    <span>办税日历</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://12366.chinatax.gov.cn/bsfw/bsdt/" target="_blank">
+                    <img src="/chinatax/xhtml/images/nsfw/nsfw-s-icon_04.png">
+                    <span>办税地图</span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="nsfw_xl_section nsfw_xl_section_2">
+            <h3 class="tx">查询</h3>
+            <div class="nsfw_xl_list">
+              <ul class="clearfix">
+                <li>
+                  <a href="/chinatax/n810341/n810825/index.html?title=" target="_blank">
+                    <img src="/chinatax/xhtml/images/nsfw/nsfw-s-icon_05.png">
+                    <span>政策库查询</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="https://inv-veri.chinatax.gov.cn/" target="_blank">
+                    <img src="/chinatax/xhtml/images/nsfw/nsfw-s-icon_06.png">
+                    <span>发票查验</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="http://hd.chinatax.gov.cn/nszx/InitCredit.html" target="_blank">
+                    <img src="/chinatax/xhtml/images/nsfw/nsfw-s-icon_07.png" style='float: left;margin: 22px 10px 0px 40px;'>
+                    <span style='float: left;font-size: 16px;line-height: 1.4;margin: 11px 0 0 0;'>纳税信用A级<br>纳税人名单</span>
+                  </a>
+                </li>
+                <li>
+                  <a href="/chinatax/c101249/n2020011502/index.html" target="_blank">
+                    <img src="/chinatax/xhtml/images/nsfw/nsfw-s-icon_08.png" style='float: left;margin: 22px 10px 0px 40px;'>
+                    <span style='float: left;font-size: 16px;line-height: 1.4;margin: 11px 0 0 0;'>重大税收违法失<br>信案件信息查询</span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>								
+        </div>
+
+        <!--  top end -->
+        <!--  bottom  -->
+        <div class="nsfw_xl_bottom clearfix">
+          <div class="nsfw_xl_section nsfw_xl_section_3">
+            <h3 class="tx"><a href="/chinatax/n810356/n3010387/index.html" target="_blank">回应关切</a></h3>
+            <div class="nsfw_xl_hygq_list">
+              <ul>
+
+                  <li>
+                    <a href="/chinatax/n810356/n3010387/c5166583/content.html" target="_blank" title="申报表整合后，如何进行增值税、消费税及附加税费申报？">申报表整合后，如何进行增值税、消费税及附加税费申报？</a>
+                  </li>
+
+                  <li>
+                    <a href="/chinatax/n810356/n3010387/c5166345/content.html" target="_blank" title="申报研发费用加计扣除要填写哪些表格？需要报送什么资料？">申报研发费用加计扣除要填写哪些表格？需要报送什么资料？</a>
+                  </li>
+
+                  <li>
+                    <a href="/chinatax/n810356/n3010387/c5166139/content.html" target="_blank" title="申报研发费用加计扣除，需要事先备案吗？">申报研发费用加计扣除，需要事先备案吗？</a>
+                  </li>
+
+              </ul>
+            </div>
+          </div>
+
+          <div class="nsfw_xl_section nsfw_xl_section_4">
+            <div class="nsfw_xl_section_list clearfix">
+              <div class="nsfw_xl_clo2_list">
+                <h3 class="tx">咨询</h3>
+                <div class="nsfw_xl_clo2_temp">
+                  <ul class="clearfix">
+                    <li>
+                      <a href="https://12366.chinatax.gov.cn/xiaohui/?guide=1.2" target="_blank">
+                        <img src="/chinatax/xhtml/images/nsfw/nsfw-s-icon_09.png">
+                        <span>智能咨询</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://12366.chinatax.gov.cn/nszx/onlinemessage/main" target="_blank">
+                        <img src="/chinatax/xhtml/images/nsfw/nsfw-s-icon_10.png">
+                        <span>在线咨询</span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="nsfw_xl_clo2_list">
+                <h3 class="tx">纳税人学堂</h3>
+                <div class="nsfw_xl_clo2_temp">
+                  <ul class="clearfix">
+                    <li>
+                      <a href="https://12366.chinatax.gov.cn/nsrxt/videoondemand/main" target="_blank">
+                        <img src="/chinatax/xhtml/images/nsfw/nsfw-s-icon_11.png">
+                        <span>视频点播</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://12366.chinatax.gov.cn/nsrxt/liveonline/main" target="_blank">
+                        <img src="/chinatax/xhtml/images/nsfw/nsfw-s-icon_12.png">
+                        <span>在线直播</span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>									
+          </div>
+        </div>
+
+
+
+
+
+        <!--
+<div class="top_text">
+<h3 class="tx">在线服务</h3>
+<div class="box_1">
+<ul class="clearfix nsfw_top_list">
+<li>
+<a href="https://12366.chinatax.gov.cn/znzx/znzx/main?guide=null&_state=0" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-01.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-01-02.png" alt="" class="hover">
+<span>智能咨询</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="https://12366.chinatax.gov.cn/bsfw/onlinetaxation/main" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-02.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-02-02.png" alt="" class="hover">
+<span>网上办税</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="https://inv-veri.chinatax.gov.cn/" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-03.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-03-02.png" alt="" class="hover">
+<span>增值税<br/>发票查验</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="https://12366.chinatax.gov.cn/bsfw/bsdt/" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-04.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-04-02.png" alt="" class="hover">
+<span>办税地图</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="https://12366.chinatax.gov.cn/bsfw/calendar/main" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-05.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-05-02.png" alt="" class="hover">
+<span>办税日历</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="http://hd.chinatax.gov.cn/nszx/InitChukou.html" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-06.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-06-02.png" alt="" class="hover">
+<span>出口退税率查询</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="https://12366.chinatax.gov.cn/sszyfw/bulletinBoard/main" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-07.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-07-02.png" alt="" class="hover">
+<span>涉税专业服务机构查询</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="http://hd.chinatax.gov.cn/nszx/InitCredit.html" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-08.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-08-02.png" alt="" class="hover">
+<span>信用A级<br/>纳税人查询</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="/chinatax/c101249/n2020011502/index.html" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-09.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-09-02.png" alt="" class="hover">
+<span>重大税收违法案件查询</span>
+</a>
+</li>
+</ul>
+
+</div>
+</div>
+<div class="button_text">
+<h3 class="tx">办税指南</h3>
+<div class="box_1">
+<ul class="clearfix nsfw_top_list nsfw_top_list-2">
+<li>
+<a href="" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-10.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-10-02.png" alt="" class="hover">
+<span>信息报告</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-11.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-11-02.png" alt="" class="hover">
+<span>发票办理</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="/chinatax/n810346/n3504626/n3504648/index.html" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-13.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-13-02.png" alt="" class="hover">
+<span>申报纳税</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-14.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-14-02.png" alt="" class="hover">
+<span>优惠办理</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-15.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-15-02.png" alt="" class="hover">
+<span>证明办理</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-16.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-16-02.png" alt="" class="hover">
+<span class="smallSize">社会保险费及非税收入业务办理</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-17.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-17-02.png" alt="" class="hover">
+<span>出口<br>退（免）税</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-18.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-18-02.png" alt="" class="hover">
+<span>国际税收<br>业务办理</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-19.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-19-02.png" alt="" class="hover">
+<span>信用评价</span>
+</a>
+</li>
+<li>
+<a href="" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-12.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-12-02.png" alt="" class="hover">
+<span>税务注销</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-20.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-20-02.png" alt="" class="hover">
+<span>涉税咨询</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-21.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-21-02.png" alt="" class="hover">
+<span>涉税信息<br>查询</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-23.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-23-02.png" alt="" class="hover">
+<span>纳税服务<br>投诉</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-22.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-22-02.png" alt="" class="hover">
+<span>涉税专业<br>服务</span>
+<em></em>
+</a>
+</li>
+<li>
+<a href="" target="_blank">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-24.png" alt="">
+<img src="/chinatax/xhtml/images/nsfw/nsfw-slide-menu-24-02.png" alt="" class="hover">
+<span>注意事项</span>
+</a>
+</li>                            
+
+</ul>
+
+</div>
+</div>
+-->
+      </div>
+    </li>
+    <li class="swsp_1">
+      <a class="tab"  href="/chinatax/n810351/index.html"  target="_blank">税务视频</a>
+      <div class="swsp_xl xl">
+        <div class="qh_con6x">
+          <div class="qh_con6xa2 fl">
+            <h3><a href="/chinatax/n810219/n810734/common_imglist5.html" target="_blank">新闻</a></h3>
+            <ul>
+                <li>
+                  <a href="/chinatax/n810219/n810734/c5166637/content.html" target="_blank"><img src="/chinatax//n810219/n810734/c5166637/5166637/images/8445adfb7c0f496e983ae96de84737d4.jpg
+"/>
+                    <span>央视新闻直播间：新疆：多地迎来旅游旺季 税务部门助力个体工商户快速走出疫情影响</span></a>
+                </li>
+                <li>
+                  <a href="/chinatax/n810219/n810734/c5166635/content.html" target="_blank"><img src="/chinatax//n810219/n810734/c5166635/5166635/images/1d5d775291b14087b062f4917bf13b0e.jpg
+"/>
+                    <span>央视中国新闻：陕西黄陵：用活“家门口”红色资源 让党史教育接地气</span></a>
+                </li>
+
+
+            </ul>
+          </div>
+          <div class="qh_con6xa2 fl">
+            <h3><a href="/chinatax/n810351/n810906/common_imglist4.html" target="_blank">普法</a></h3>
+            <ul>
+                <li>
+                  <a href="/chinatax/n810351/n810906/c5164792/content.html" target="_blank"><img src="/chinatax//n810351/n810906/c5164792/5164792/images/f144d79c926f46e2aec0af8eebb84a61.jpg
+"/>
+                    <span>财产和行为税合并纳税申报政策和服务措施解读</span></a>
+                </li>
+                <li>
+                  <a href="/chinatax/n810351/n810906/c5164647/content.html" target="_blank"><img src="/chinatax//n810351/n810906/c5164647/5164647/images/7e488de875294cbc9e7bd06723435988.jpg
+"/>
+                    <span>《民法典与我们同行》</span></a>
+                </li>
+
+
+            </ul>
+          </div>
+          <div class="qh_con6xa2 fl">
+            <h3><a href="/chinatax/n810351/n810911/common_imglist6.html" target="_blank">影视</a></h3>
+            <ul>
+                <li>
+                  <a href="/chinatax/n810351/n810911/c5166475/content.html" target="_blank"><img src="/chinatax//n810351/n810911/c5166475/5166475/images/3ec8e599a2784ad090c737e3c668b4ad.jpg
+"/>
+                    <span>寻访高君宇革命之路 感受信仰的力量</span></a>
+                </li>
+                <li>
+                  <a href="/chinatax/n810351/n810911/c5166434/content.html" target="_blank"><img src="/chinatax//n810351/n810911/c5166434/5166434/images/fcff8dd901044ad69953bd8d24cb7ad5.jpg
+"/>
+                    <span>周明浩：一心服务改革，奋力书写闪亮人生</span></a>
+                </li>
+
+            </ul>
+          </div>
+          <div class="qh_con6xa2 fl" style="margin-right: 0;">
+            <h3><a href="/chinatax/n810351/n810916/common_imglist3.html" target="_blank">动漫</a></h3>
+            <ul>
+                <li>
+                  <a href="/chinatax/n810219/n101397/c5166642/content.html" target="_blank"><img src="/chinatax//n810351/n810916/c5166646/5166646/images/d0a5fd3e19244da38128431e76e7745d.jpg
+"/>
+                    <span>动漫｜施正文：推进税收征管现代化的里程碑改革</span></a>
+                </li>
+                <li>
+                  <a href="/chinatax/n810219/n101397/c5166500/content.html" target="_blank"><img src="/chinatax//n810351/n810916/c5166502/5166502/images/702be856740742aca4112a1dbe6650fe.jpg
+"/>
+                    <span>动漫丨《机动车发票使用办法》7月起正式施行！四大知识点要知道</span></a>
+                </li>
+
+            </ul>
+          </div>
+        </div>
+      </div>
+    </li>
+    <li class="hdjl">
+      <a class="tab" href="/chinatax/n810356/index.html" target="_blank">互动交流</a>
+      <div class="hdjl_xl xl">
+        <div class="hdjl_l">
+          <div class="lt"><a href="/chinatax/n810356/n810946/n842949/common_listwyc.html">在线访谈</a></div>
+          <ul>
+
+              <li>
+                <div class="zxft_b_l"><a href="http://www.chinatax.gov.cn/interview/373/index.html" target="_blank"><img src="/chinatax//n810356/n810946/n842949/c5163892/5163892/images/e7762d7685f54d749cb9f3f3d1f925e5.jpeg
+"/></a></div>
+                <div class="zxft_text">
+                  <p>嘉宾：<a href="http://www.chinatax.gov.cn/interview/373/index.html">国家税务总局所得税司副司长刘宝柱</a></p>
+                  <p>主题： <a href="http://www.chinatax.gov.cn/interview/373/index.html">“研发费用加计扣除新政策讲解”在线访谈</a></p>
+                  <p>时间：2021年4月29日15:00-16:00</p>
+                </div>
+              </li>
+              <li>
+                <div class="zxft_b_l"><a href="http://www.chinatax.gov.cn/interview/369/index.html" target="_blank"><img src="/chinatax//n810356/n810946/n842949/c5163432/5163432/images/40a0cd8db6ee4445aeb0c3cafda951ac.jpg
+"/></a></div>
+                <div class="zxft_text">
+                  <p>嘉宾：<a href="http://www.chinatax.gov.cn/interview/369/index.html">国家税务总局《意见》落实领导小组办公室综合协调组黄立明组长</a></p>
+                  <p>主题： <a href="http://www.chinatax.gov.cn/interview/369/index.html">“《关于进一步深化税收征管改革的意见》落实有关情况讲解”在线访谈</a></p>
+                  <p>时间：2021年4月15日上午10:00-11:00</p>
+                </div>
+              </li>
+
+          </ul>
+        </div>
+        <div class="hdjl_r">
+          <!--局长信箱开始-->
+          <div class="jzxx nszx"><a href="https://12366.chinatax.gov.cn/xiaohui/?guide=1.2"></a></div>
+          <!--局长信箱开始-->
+          <div class="jzxx jzxx-float-20200703"><a href="javascript:;" target='_blank'></a></div>
+          <!--税收违法行为检举开始-->
+          <div class="jianjv"><a href="http://hd.chinatax.gov.cn/jzxx/sswfxw.html"  target='_blank'></a></div>
+          <!--税务干部违纪举报开始-->
+          <div class="jvbao"><a href="http://hd.chinatax.gov.cn/jzxx/swgbwj.html" target='_blank'></a></div>
+          <!--互联网+税务督查开始-->
+          <div class="hlwswdc"><a href="http://hd.chinatax.gov.cn/jzxx/internetcontrol.html" target='_blank'></a></div>
+          <!--意见征集开始-->
+          <!--<div class="yjzj"><a href="/chinatax/n810356/n810961/yjzj_zjjg_list.html" target='_blank'></a></div>-->
+
+        </div>
+        <style type="text/css">
+          .hdjl_xl .hdjl_r .jzxx.jzxx-float-20200703{
+            background: url(/chinatax/xhtml/images/public/jzxx-hdjl-20200703.jpg) no-repeat;
+            margin-top:10px;
+          }
+          .hdjl_xl .hdjl_r .jzxx.jzxx-float-20200703:hover{
+            background: url(/chinatax/xhtml/images/public/jzxx-hdjl-20200703.jpg) no-repeat;
+          }
+          .hdjl_xl .hdjl_r .jzxx.nszx{
+            margin-top: 10px;
+          }
+          .hdjl_xl .hdjl_r .jzxx.nszx:hover{
+            background: url(/chinatax/xhtml/images/hdjl/con_r_2.png) no-repeat;
+          }
+          .hdjl_xl .hdjl_r .jianjv:hover{
+            background: url(/chinatax/xhtml/images/hdjl/con_r_3.jpg) no-repeat; 
+          }
+
+          .hdjl_xl .hdjl_r .jvbao{
+            background: url(/chinatax/xhtml/images/public/jjpt-hdjl-20200703.png) no-repeat; 
+            background-size: 100%;
+            border-right: none;
+            margin-top: 10px;
+          }
+          .hdjl_xl .hdjl_r .jvbao:hover{
+            background: url(/chinatax/xhtml/images/public/jjpt-hdjl-20200703.png) no-repeat; 
+            background-size: 100%;
+          }
+
+          .hdjl_xl .hdjl_r .jianjv{
+            margin-top: 10px;
+          }
+          .hdjl_xl .hdjl_r .hlwswdc{
+            background: url(/chinatax/xhtml/images/public/hlwswdc-hdjl-20201111.jpg) no-repeat; 
+            background-size: 100%;
+            border-right: none;
+            margin-top: 10px;
+            width: 320px;
+            height: 67px;
+          }
+          .hdjl_xl .hdjl_r .hlwswdc:hover{
+            background: url(/chinatax/xhtml/images/public/hlwswdc-hdjl-20201111.jpg) no-repeat; 
+            background-size: 100%;
+          }
+          .hdjl_xl .hdjl_r .hlwswdc a{
+          	display:block;
+            width:100%;
+            height:100%;
+          }
+          .hdjl_xl .hdjl_l ul li{
+          	margin-top:10px;
+            margin-bottom:10px;
+          }
+
+        </style>
+      </div>
+    </li>
+  </ul>
+</div>
+<div class="tab sjxsnew">
+  <ul class="ul_nav">
+    <li class="sjsy"><a href="/chinatax/index.html"  target="_blank">首　　页</a></li>
+    <li class="zjgk">
+      <a class="tab" href="/chinatax/n810209/index.html"  target="_blank">总局概况</a>
+    </li>
+    <li class="xxgk">
+      <a class="tab" href="/chinatax/n810214/index.html"  target="_blank">信息公开</a>
+
+    </li>
+    <li class="xwfb">
+      <a class="tab" href="/chinatax/n810219//index.html"  target="_blank">新闻发布</a>
+
+    </li>
+    <li class="sszc">
+      <a class="tab" href="/chinatax/n810341/index.html"  target="_blank">税收政策</a>
+
+    </li>
+    <li class="nsfw">
+      <a class="tab" href="/chinatax/n810346/index.html"  target="_blank">纳税服务</a>
+
+    </li>
+    <li class="swsp_1">
+      <a class="tab"  href="/chinatax/n810351/index.html"  target="_blank">税务视频</a>
+
+    </li>
+    <li class="hdjl">
+      <a class="tab" href="/chinatax/n810356/index.html">互动交流</a>
+    </li>
+  </ul>
+</div>
+
+<!-- 页面导航结束 -->
+<!-- 头部结束 -->
+    <!--头部结束-->
+    <!--考查调研开始-->
+    <div class="ctop4">
+      <!--考查调研top图片开始-->
+       
+        <a href="http://www.xinhuanet.com/politics/leaders/2021-07/16/c_1127663533.htm" target="_blank" class="ttxw" title="习近平出席亚太经合组织领导人非正式会议并发表讲话" >
+          <img src="/chinatax//n810219/n810724/n811741/c5166620/5166620/images/c690684ca9df4a859216c9116bb6fa86.jpg
+" alt="" />
+        </a>
+        <a href="http://www.xinhuanet.com/politics/leaders/2021-07/16/c_1127663533.htm" target="_blank" class="ttxw tax-top-news" title="" >
+          <span>习近平出席亚太经合组织领导人非正式会议并发表讲话</span>
+        </a>
+
+      <style>
+        .tax-top-news{
+          padding:20px 0 0 0;
+          text-align:center;
+          color:#0d46b9;
+          height:50px;
+          line-height:50px;
+          margin-bottom:20px;
+          display:none;
+          overflow:hidden;
+        }
+        @media screen and (max-width:768px){
+          .ttxw{
+            display:none;
+          }
+          .tax-top-news{
+            height:auto;
+            line-height:1.3;
+            display:block;
+          }
+          .tax-top-news span{
+            font-size:26px !important;
+            font-weight:bold;
+          }
+        }
+
+
+
+      </style>
+
+      <!--考查调研top图片结束-->
+      <!--考察调研bottom轮播开始-->
+
+      <!-- 20200311 轮播调整为 650*380  -->
+      <style type="text/css">
+        /* ding bu lun bo */
+        .ctop4a{
+          height: 380px;
+          width: 650px;
+        }
+        .ctop4 .slider-carousel{
+          height: 380px;
+        }
+        .ctop4 .slidesjs-container{
+          height: 100%;
+        }
+        .ctop4 .slider-carousel .item{
+          height: 380px;
+        }
+        .ctop4 .slider-carousel img{
+          height: 380px;
+          width: 650px;
+        }
+        .ctop4b1{
+          width: 330px;
+        }
+        .ctop4b1 .bwcx img{
+          height: 45px !important;
+        }
+        .ctop4b1 .slider-carousel .subtitle{
+          width: 500px;
+        }
+        @media screen and (max-width: 991px){
+          .ctop4{width:96%;height:auto;margin:0 auto;padding: 0 2%;}
+          .ctop4>a>.kcdy{width:100%; height:96px;}
+          .ctop4a{width:100%; height:auto; float:none;}
+          .device .swiper-slide a img{display:block; width:100%;}
+          .ctop4b1{width:100%; height:auto; float:none; z-index: 100; margin-top:20px; margin-left:0;}
+          .device .swiper-slide span a{width: 56%;}
+          .ctop4 .slider-carousel img{width: 100%;height: auto;}
+
+        }
+        @media screen and (max-width: 480px){
+
+        }
+        /* ding bu lun bo  --end */
+
+        /* shui wu xin wen  */
+        .main_swxw{
+          margin-bottom: 20px;
+        }
+        .main_swxw:after{
+          content: '';
+          height: 0;
+          display: block;
+          clear: both;
+          visibility: hidden;
+          overflow: hidden;
+        }
+        .main_swxw .n_swxw{
+          height: 300px;
+        }
+        .main_swxw .n_swxw .ml_photo{
+          float: left;
+          width: 500px;
+          height: 300px;
+        }
+
+        .main_swxw .device_1{
+          height: 300px;
+        }
+        .main_swxw #box_1 .slider-carousel,
+        .main_swxw #box_1 .slider-carousel .item,
+        .main_swxw #box_1 .slider-carousel .item img{
+          width: 500px;
+          height: 300px;
+        }
+        .main_swxw .ml_meiti{
+          width: 480px;
+          margin-top: 0;
+        }
+        .ml_meiti .ml_meiti_b ul li{
+          background: url(/chinatax/xhtml/images/index/listbg.png) no-repeat 4px 12px;
+          padding-left: 13px;
+        }
+        .TxtBox .bd ul{
+          margin-top:13px;
+          height:275px;
+          margin-bottom:0;
+        }
+        .TxtBox .bd ul.szxw-line-10{
+          margin-top:10px;
+          height:278px;
+        }
+        .TxtBox .bd ul li{
+          font-size: 17px;
+          margin-bottom:5px;
+          line-height:28px;
+        }
+        .TxtBox .bd ul.topnewslist1.szxw-line-10 li{
+          margin-bottom: 0;
+        }
+        .TxtBox .bd ul.topnewslist1.szxw-line-8 li{
+          margin-bottom: 7px;
+          line-height: 30px;
+        }
+        .ml_meiti .ml_meiti_b ul li{
+          font-size: 16px;
+        }
+        .main_swxw .slider-carousel .subtitle{
+          width: 400px;
+        }
+        .main_swxw .slider-carousel .subtitle h6{
+          white-space: nowrap;
+          text-overflow: ellipsis;
+          overflow: hidden;
+        }
+        .main_swxw .ml_meiti .ml_meiti_b ul li{
+          margin-bottom: 2px;
+        }
+
+        .tjss .tjImg,.tjss .tjImg a img{
+          height: 250px;
+          max-height: none;
+        }
+        #box-mobile{
+          display: none;
+        }
+        .swxw-video-icon{
+          float: left;
+          width: 24px;
+          margin-right: 6px;
+          margin-top: 6px;
+        }
+        @media screen and (max-width: 991px){
+          .TxtBox .bd ul{
+            height: auto;
+          }
+          .main_swxw .n_swxw{
+            height: auto;
+          }
+          .main_swxw .n_swxw .ml_photo{
+            float: none;
+            width: 100%;
+            height: auto;
+          }
+          .main_swxw .device_1{
+            height: auto;
+          }
+          .main_swxw #box_1 .slider-carousel, .main_swxw #box_1 .slider-carousel .item, .main_swxw #box_1 .slider-carousel .item img{
+            width: 100%;height: 100%;
+          }
+          .main_swxw .ml_meiti{
+            float: none;
+            width: 100%;
+          }
+          .tjss .tjImg, .tjss .tjImg a img{
+            height: auto;
+          }
+          .main_swxw .pannel-image{
+            width: 100%;
+            height: 100%;
+          }
+          .main_swxw .pannel-image a{
+            display: block;
+            width: 100%;
+            height: 100%;
+          }
+          #box-mobile{
+            display: none;
+          }
+          #box{
+            display: block;
+          }
+          .slider-carousel,.slider-carousel .item{
+            height: 56vw !important;
+          }
+
+        }
+        /* shui wu xin wen  --end */ 
+
+        .meiti_yqfkzjz .mtsd_b{
+          height: 208px;
+        }
+        .zxwj .zxwj_b{
+          height: 208px;
+        }
+
+
+        .banshui_t_img{
+          margin: 10px 0 0 0;
+        }
+        .banshui_t_img img{
+          width: 100%;
+          height: 37px;
+        }
+        .main .m_right .mr_bgc .mr_banshui{
+          margin-bottom: 10px;
+          margin-top: -9px;
+        }
+        .main .m_right .mr_bgc .ssty{
+          height: auto;
+          overflow: hidden;
+          margin-bottom: 13px;
+        }
+        .main .m_right .mr_bgc .ssty a{
+          height: 50px;
+          line-height: 50px;
+        }
+        .main .m_right .bgc_t{
+          margin-top: 9px;
+        }
+        .XMT{
+          margin-bottom: 10px;
+        }
+        .XMT .mtsd_b ul{
+          height:260px;
+        }
+        .XMT .mtsd_b ul li{
+          margin-bottom: 4px;
+        }
+
+
+
+        /* 时政新闻标题 */
+        .TxtBox .hd ul{
+          float: none;
+          width: 100%;
+        }
+        .TxtBox .hd ul li#jsrd2{
+          width: 100%;      
+          height: 42px;
+          line-height: 44px;
+          border-bottom: 2px solid #e3e3e3;
+          text-align: left;
+          overflow: visible;
+          background:url(/chinatax/xhtml/images/public/szyw-bg-20200623.png) no-repeat center;
+          background-size:100% 100%;
+        }
+        .TxtBox .hd ul li.jsrd3{
+          display: none;
+        }
+        .TxtBox .hd ul li#jsrd2 a{      
+          display: inline-block;
+          color: #d42323;
+          font-weight: bold;
+          border-bottom: 0px solid #cc0000;
+          width: auto;
+          height: 42px;
+          font-size: 22px;
+        }
+        .TxtBox .hd ul li#jsrd2 a.xxpt-top-tip{
+          float:right;
+          width:180px;
+          margin-right:15px;
+          border-bottom:none;
+        }
+        .TxtBox .hd ul li#jsrd2 a.xxpt-top-tip img{
+          width:auto;
+
+        }
+
+
+        .main_swxw .ml_meiti_t a{
+          font-size: 22px;
+        }
+        @media screen and (max-width: 480px){
+          .slidesjs-pagination{
+            bottom: 38px;
+          }
+          .slidesjs-pagination-item a,.slidesjs-pagination-item a.active{
+            width: 6px;
+            height: 6px;
+            background-size: 100% 100%;
+            margin: 2px;
+          }
+          .slidesjs-pagination-item{
+            width: auto;
+          }
+
+          .TxtBox .hd ul li#jsrd2 a{
+            font-size: 18px;
+          }
+          .main_swxw .ml_meiti_t a{
+            font-size: 18px;
+          }
+          .zxwj .zxwj_b{
+            height: auto;
+          }
+          .bgc_b .ml_meiti_t, .ml_meiti .ml_meiti_t{
+            margin-top: 20px;
+            font-size: 18px;
+          }
+          .mtsd_r .wjzc a, .mtsd_r .wjzc li{
+            font-size: 18px;
+          }
+          .mc_faguiku .fgk_t{
+            margin-top: 18px;
+          }
+          .mc_faguiku .fgk_t a{
+            font-size: 18px;
+          }
+          .mtsd_b ul li{
+            line-height: 24px;
+            font-size: 16px;
+          }
+          .ml_meiti .ml_meiti_t a{
+            font-size:18px;
+          }
+          .meiti_yqfkzjz .mtsd_b{
+            height:auto;
+          }
+          .TxtBox .hd ul li#jsrd2 a.xxpt-top-tip{
+            margin-left:0;
+            margin-right:5px;
+          }
+        }
+
+
+        .sszycfz-link.dbwyhss img{
+          width: 120px;
+        }
+
+      </style>
+      <!-- 20200311 轮播调整为 650*380  -->
+
+      <div class="ctop4z">
+        <div class="ctop4a">
+          <div id="box">
+            <div class="slider-carousel">
+               
+                <div class="item">
+                  <div class="pannel-image">
+                    <a href="http://www.xinhuanet.com/politics/leaders/2021-07/16/c_1127663533.htm" target="_blank" title="习近平出席亚太经合组织领导人非正式会议并发表讲话"> 
+                      <img  src="/chinatax//n810219/n1403167/n3326539/c5166623/5166623/images/aa5394c95e744b56afbb1b410cc30ad0.jpg
+">
+                    </a>
+                  </div> 
+                  <div class="titBg" style="display:none;"> </div> 
+                  <div class="subtitle" style="display:none;">
+                    <h6><a href="http://www.xinhuanet.com/politics/leaders/2021-07/16/c_1127663533.htm" target="_blank" title="习近平出席亚太经合组织领导人非正式会议并发表讲话">习近平出席亚太经合组织领导人非正式会议并发表讲话</a></h6>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="pannel-image">
+                    <a href="http://www.xinhuanet.com/politics/leaders/2021-07/13/c_1127651317.htm" target="_blank" title="习近平亲切会见中国共产党成立100周年庆祝活动筹办工作各方面代表"> 
+                      <img  src="/chinatax//n810219/n1403167/n3326539/c5166466/5166466/images/57fa8fe722b04f6f8c7684ba39f94001.jpg
+">
+                    </a>
+                  </div> 
+                  <div class="titBg" style="display:none;"> </div> 
+                  <div class="subtitle" style="display:none;">
+                    <h6><a href="http://www.xinhuanet.com/politics/leaders/2021-07/13/c_1127651317.htm" target="_blank" title="习近平亲切会见中国共产党成立100周年庆祝活动筹办工作各方面代表">习近平亲切会见中国共产党成立100周年庆祝活动筹办工作各方面代表</a></h6>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="pannel-image">
+                    <a href="http://www.xinhuanet.com/politics/leaders/2021-07/07/c_1127628998.htm" target="_blank" title="习近平出席中国共产党与世界政党领导人峰会并发表主旨讲话"> 
+                      <img  src="/chinatax//n810219/n1403167/n3326539/c5166241/5166241/images/88525c522fff431c88c30e0d9c714f0a.jpg
+">
+                    </a>
+                  </div> 
+                  <div class="titBg" style="display:none;"> </div> 
+                  <div class="subtitle" style="display:none;">
+                    <h6><a href="http://www.xinhuanet.com/politics/leaders/2021-07/07/c_1127628998.htm" target="_blank" title="习近平出席中国共产党与世界政党领导人峰会并发表主旨讲话">习近平出席中国共产党与世界政党领导人峰会并发表主旨讲话</a></h6>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="pannel-image">
+                    <a href="http://www.gov.cn/premier/2021-07/14/content_5624830.htm" target="_blank" title="李克强召开经济形势座谈会释放哪些信号？"> 
+                      <img  src="/chinatax//n810219/n1403167/n3326539/c5166559/5166559/images/af1e7b30df10471eb7cd79ad49a923df.jpg
+">
+                    </a>
+                  </div> 
+                  <div class="titBg" style="display:none;"> </div> 
+                  <div class="subtitle" style="display:none;">
+                    <h6><a href="http://www.gov.cn/premier/2021-07/14/content_5624830.htm" target="_blank" title="李克强召开经济形势座谈会释放哪些信号？">李克强召开经济形势座谈会释放哪些信号？</a></h6>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="pannel-image">
+                    <a href="/chinatax/n810219/n810744/c101746//index.html" target="_blank" title="党史学习教育专栏"> 
+                      <img  src="/chinatax//n810219/n1403167/n3326539/c5162740/5162740/images/5ee477ab9e3d4dc3af25ee3374d2a69e.jpg
+">
+                    </a>
+                  </div> 
+                  <div class="titBg" style="display:none;"> </div> 
+                  <div class="subtitle" style="display:none;">
+                    <h6><a href="/chinatax/n810219/n810744/c101746//index.html" target="_blank" title="党史学习教育专栏">党史学习教育专栏</a></h6>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="pannel-image">
+                    <a href="http://www.gov.cn/fuwu/2021-04/07/content_5598150.htm" target="_blank" title="找政府办事还有哪些烦心事？国务院请你说两句"> 
+                      <img  src="/chinatax//n810219/n1403167/n3326539/c5163159/5163159/images/c253d8e39ff742ef9ad70ec444c15bfa.jpg
+">
+                    </a>
+                  </div> 
+                  <div class="titBg" style="display:none;"> </div> 
+                  <div class="subtitle" style="display:none;">
+                    <h6><a href="http://www.gov.cn/fuwu/2021-04/07/content_5598150.htm" target="_blank" title="找政府办事还有哪些烦心事？国务院请你说两句">找政府办事还有哪些烦心事？国务院请你说两句</a></h6>
+                  </div>
+                </div>
+
+
+            </div> 
+          </div>
+
+
+        </div>
+        <!--start component 新闻列表(中央新闻)-->
+        <div class="ctop4b1">
+          <div class="TxtBox">
+            <div class="hd">
+              <ul>
+                <li id="jsrd2"><a href="/chinatax/n810219/n1403167/index.html" target="_blank" style='padding-left:7px;'>时政要闻</a><a  href="/chinatax/n810219/n810744/c101774/index.html" target="_blank" class='xxpt-top-tip' style="margin-right:0px;width:200px;"><img src="/chinatax/xhtml/images/public/jiandangsy.jpg" style="width:98%;"></a></li>
+                <li class="jsrd3"></li>
+              </ul>
+            </div>
+            <div class="bd">
+              <ul class="topnewslist1" id="jsrd_con2">
+                 
+
+                  <li style='font-weight:bold;font-size:19px;'><a href="http://www.xinhuanet.com/politics/leaders/2021-07/16/c_1127663533.htm" target="_blank" title="习近平出席亚太经合组织领导人非正式会议并发表讲话">习近平出席亚太经合组织领导人非正式会议并发表讲话</a><span style='display:none;'>9</span></li>
+
+                 
+
+                  <li><a href="http://www.xinhuanet.com/politics/leaders/2021-07/15/c_1127658292.htm" target="_blank" title="《求是》杂志发表习近平总书记重要文章">《求是》杂志发表习近平总书记重要文章</a></li>
+                          
+                 
+
+                  <li><a href="http://www.xinhuanet.com/politics/leaders/2021-07/13/c_1127651317.htm" target="_blank" title="习近平亲切会见中国共产党成立100周年庆祝活动筹办工作各方面代表">习近平亲切会见中国共产党成立100周年庆祝活动筹办工作各方面代表</a></li>
+                  <li><a href="http://www.gov.cn/premier/2021-07/19/content_5625965.htm" target="_blank" title="李克强同文莱苏丹哈桑纳尔就中国-东盟建立对话关系30周年互致贺电">李克强同文莱苏丹哈桑纳尔就中国-东盟建立对话关系30周年互致贺电</a></li>
+                  <li><a href="http://paper.people.com.cn/rmrb/html/2021-07/19/nw.D110000renmrb_20210719_1-01.htm" target="_blank" title="人民日报：伟大建党精神，中国共产党的精神之源">人民日报：伟大建党精神，中国共产党的精神之源</a></li>
+                  <li><a href="http://paper.people.com.cn/rmrb/html/2021-07/14/nw.D110000renmrb_20210714_1-09.htm" target="_blank" title="人民日报：百年大党奋进新征程的政治宣言">人民日报：百年大党奋进新征程的政治宣言</a></li>
+
+                <div class="ckgd_more"><a target="_blank" href="/chinatax/n810219/n1403167/index.html">查看更多</a></div>
+              </ul>
+
+              <div class="bwcx shsjyc" style='overflow:hidden;margin-bottom:5px;'>
+
+                <a  href="/chinatax/n810219/n810744/c101746/index.html" target="_blank"style="width: 163px;  display: block; float: left; ">
+                  <img src="/chinatax/xhtml/images/public/dangshi.jpg"></a>
+                <a  href="/chinatax/n810219/n810744/c101733//index.html" target="_blank" style="width: 162px;display: block; float: right;"><img src="/chinatax/xhtml/images/public/qm_logo.jpg"></a> 
+
+                <!--<a  href="/chinatax/n810219/n810744/c101733//index.html" target="_blank"style="width: 100%; height:45px;  display: block;  ">
+<img src="/chinatax/xhtml/images/public/qm_logo.jpg" style="height:100%"></a>-->
+              </div>
+              <!--<a class="bwcx shsjyc" href="http://www.xinhuanet.com/politics/2020lh/index.htm" target="_blank" ><img src="/chinatax/xhtml/images/public/lianghui-icon-2020521-02.jpg"></a>-->
+
+
+            </div>
+            <script type="text/javascript">
+              $(document).on('ready',function(){
+                var winWidth = $(window).width();
+                var szxwCon = $('.TxtBox .bd ul.topnewslist1');
+                var tempLineNum = szxwCon.find('li:eq(0) span').text();
+                if(winWidth>991){
+                  if(tempLineNum == 10){
+                    szxwCon.addClass('szxw-line-10');
+                  }else if(tempLineNum == 8){
+                    szxwCon.addClass('szxw-line-8');
+                  }
+                  szxwCon.find('li:eq(0) span').hide();
+                }
+              });
+
+            </script>
+          </div>
+        </div>
+        <div class="clear"></div>
+      </div>
+      <!--考察调研bottom轮播结束-->
+    </div>
+    <!--考察调研结束-->
+    <!--main开始-->
+    <div class="main">
+      <!--end component 新闻列表(new)-->
+
+      <!--  20200310 shui wu xin wen tong lan  -->
+
+      <div class="main_swxw">
+        <div class="common1 n_swxw">
+          <div class="ml_photo fl ggbf">
+
+            <div id="box_1" class="device_1">
+              <div class="slider-carousel">
+                 
+                  <div class="item">
+                    <div class="pannel-image">
+                      <a href="/chinatax/n810219/n810724/c5166546/content.html"  target="_blank" title="全国税务系统司局级主要领导干部党史学习教育专题读书班在京举办 深入学习贯彻习近平总书记“七一”重要讲话精神 在新的征程上奋力谱写税收现代化建设新篇章"> 
+                        <img  src="/chinatax//n810219/n810729/c5166556/5166556/images/673a30900312446b9dc62820dab58dbb.JPG
+" >
+                      </a>
+                    </div> 
+                    <div class="titBg"> </div> 
+                    <div class="subtitle">
+                      <h6><a href="/chinatax/n810219/n810724/c5166546/content.html" target="_blank" title="全国税务系统司局级主要领导干部党史学习教育专题读书班在京举办 深入学习贯彻习近平总书记“七一”重要讲话精神 在新的征程上奋力谱写税收现代化建设新篇章">全国税务系统司局级主要领导干部党史学习教育专...</a></h6>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="pannel-image">
+                      <a href="/chinatax/n810219/n810724/c5166698/content.html"  target="_blank" title="国家税务总局机关举办“党在我心中”党史知识竞赛决赛"> 
+                        <img  src="/chinatax//n810219/n810729/c5166701/5166701/images/37258cf078e4491a8a0da89612a9245f.jpg
+" >
+                      </a>
+                    </div> 
+                    <div class="titBg"> </div> 
+                    <div class="subtitle">
+                      <h6><a href="/chinatax/n810219/n810724/c5166698/content.html" target="_blank" title="国家税务总局机关举办“党在我心中”党史知识竞赛决赛">国家税务总局机关举办“党在我心中”党史知识竞...</a></h6>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="pannel-image">
+                      <a href="/chinatax/n810219/n810724/c5166548/content.html"  target="_blank" title="中共中央宣传部举行中外记者见面会 5名税务党员讲述“坚守初心 税收为民”故事"> 
+                        <img  src="/chinatax//n810219/n810729/c5166562/5166562/images/065d8bbcf20b41e6b644da0e37ece84d.JPG
+" >
+                      </a>
+                    </div> 
+                    <div class="titBg"> </div> 
+                    <div class="subtitle">
+                      <h6><a href="/chinatax/n810219/n810724/c5166548/content.html" target="_blank" title="中共中央宣传部举行中外记者见面会 5名税务党员讲述“坚守初心 税收为民”故事">中共中央宣传部举行中外记者见面会 5名税务党员...</a></h6>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="pannel-image">
+                      <a href="/chinatax/n810219/n810744/c101763/c101789/c5166451/content.html"  target="_blank" title="掌上办、便捷办！税务贴心服务解难题"> 
+                        <img  src="/chinatax//n810219/n810729/c5166457/5166457/images/f66e09f1fdda403fb76dfabc9ebc9931.jpg
+" >
+                      </a>
+                    </div> 
+                    <div class="titBg"> </div> 
+                    <div class="subtitle">
+                      <h6><a href="/chinatax/n810219/n810744/c101763/c101789/c5166451/content.html" target="_blank" title="掌上办、便捷办！税务贴心服务解难题">掌上办、便捷办！税务贴心服务解难题</a></h6>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="pannel-image">
+                      <a href="/chinatax/n810219/n810744/c101763/c101789/c5166289/content.html"  target="_blank" title="税务服务新模式 办税缴费更方便"> 
+                        <img  src="/chinatax//n810219/n810729/c5166342/5166342/images/0157321f89924d63b128405025917e75.jpg
+" >
+                      </a>
+                    </div> 
+                    <div class="titBg"> </div> 
+                    <div class="subtitle">
+                      <h6><a href="/chinatax/n810219/n810744/c101763/c101789/c5166289/content.html" target="_blank" title="税务服务新模式 办税缴费更方便">税务服务新模式 办税缴费更方便</a></h6>
+                    </div>
+                  </div>
+
+              </div> 
+            </div>
+
+          </div>
+          <!--start component 新闻列表(税务新闻)-->
+          <div class="ml_meiti ml_yaowen fr ggbf">
+            <div class="ml_meiti_t">
+              <a href="/chinatax/n810219/n810724/common_list_swxw.html" target="_blank">税务新闻</a>
+              <a href="/chinatax/n810219/n810744/c101763//index.html" target="_blank" style="float:right;border-bottom: 0px solid #077fd3; "><img class="sszg_img" src="/chinatax/xhtml/images/pic_202103293.jpg"></a>
+            </div>
+            <div class="ml_meiti_b">
+              <style type="text/css">
+                .ml_meiti_t{
+                  position:relative;
+                }
+                .sszg_img{
+                float:right;
+                height:32px;
+                position: absolute;
+                right: 0;
+                bottom: 7px;
+                }
+                .ml_meiti_b_top{
+                  height: 171px;
+                  overflow: hidden;
+                }
+                .ml_meiti_b_middle{
+                  height: 80px;
+                  overflow: hidden;
+                }
+                .ml_yaowen_line6 .ml_meiti_b_top{
+                  height:171px;
+                }
+                .ml_yaowen_line6 .ml_meiti_b_middle{
+                  height:81px;
+                }
+                .ml_yaowen_line7 .ml_meiti_b_top{
+                  height:198px;
+                }
+                .ml_yaowen_line7 .ml_meiti_b_middle{
+                  height:58px;
+                }
+                .ml_yaowen_line8 .ml_meiti_b_top{
+                  height:225px;
+                }
+                .ml_yaowen_line8 .ml_meiti_b_middle{
+                  height:28px;
+                }
+                .ml_yaowen_line9 .ml_meiti_b_top{
+                  height:253px;
+                }
+                .ml_yaowen_line9 .ml_meiti_b_middle{
+                  height:0;
+                  display:none;
+                }
+                .sszycfz-link{
+                  margin-right:0px;
+                }
+                .sszycfz-link img{
+                  width:100px;
+                  margin-top:-2px;
+                }
+                .sszycfz-link img.sszycfz-swjt{
+                  width:auto;
+                  height:22px;
+                  margin-top:-1px;
+                  margin-right:3px;
+                }
+                .sszycfz-link img.sszycfz-swjt.swyw-tjss{
+                  height: 22px;
+                }
+                .ml_meiti .ml_meiti_b .ml_meiti_b_middle ul{
+                  margin-top:0;
+                }
+                .ml_meiti .ml_meiti_b .ml_meiti_b_bottom ul{
+                  margin-top: 0;
+                }
+                .ml_meiti_b_middle img.sszycfz-gdsl{
+                  margin-right: 1px;
+                  width: 76px;
+                  margin-top: -1px;
+                }
+                .ml_meiti_b_middle img.swyw-zfsj{
+                  height: 22px;
+                  margin-right:3px;
+                }
+                .ml_meiti_b_top img.swyw-ssw{
+                  height: 22px;
+                  margin-right:3px;
+                  margin-top:-2px;
+                }
+                .ml_meiti_b_top img.swyw-bnxzc{
+                  height: 24px;
+                  margin-right:3px;
+                  margin-top:-2px;
+                }
+                .ml_meiti_b_top img.swyw-wzqh{
+                  height: 23px;
+                  margin-right:1px;
+                  margin-top:-2px;
+                }
+                img.swyw-tjss-2{
+                  width: auto;
+                  margin-top: -1px;
+                  margin-right: 3px;
+                }
+                img.swyw-swqn{
+                width:104px;
+                  height:20px;
+                }
+                @media screen and (max-width: 991px){
+                  .ml_yaowen .ml_meiti_b_top{
+                    height: auto;
+                    overflow: hidden;
+                  }
+                  .ml_yaowen .ml_meiti_b_middle{
+                    height: auto;
+                  }
+                }
+                .swyw-ssxcy{
+                width:92px;
+                }
+                .ml_meiti_b_top{
+                overflow:visible;
+                }
+                .ml_meiti_b_middle {
+                margin-top: -5px;
+               }
+              </style>
+              <div class="ml_meiti_b_top">
+                <ul>
+                   
+
+                    <li data-line="742">
+                      <a href="/chinatax/n810219/n810724/c5166546/content.html" target="_blank" title="全国税务系统司局级主要领导干部党史学习教育专题读书班在京举办 深入学习贯彻习近平总书记“七一”重要讲话精神 在新的征程上奋力谱写税收现代化建设新篇章">全国税务系统司局级主要领导干部党史学习教育专题读书班在京举办 深入学习贯彻习近平总书记“七一”重要讲话精神 在新的...</a>
+                      <span class="newicon" style="display:none;">否</span></li>
+
+                   
+
+                    <li data-icon="">
+                      <a href="/chinatax/n810219/n810724/c5166698/content.html" target="_blank" title="国家税务总局机关举办“党在我心中”党史知识竞赛决赛">国家税务总局机关举办“党在我心中”党史知识竞赛决赛</a>
+                      <span class="newicon" style="display:none;">否</span></li>
+
+                    <li data-icon="">
+                      <a href="/chinatax/n810219/n810724/c5166629/content.html" target="_blank" title="跨省“易”办税 活力“通”南北——税务系统以推进涉税事项跨省“通办”促税务“放管服”改革深化">跨省“易”办税 活力“通”南北——税务系统以推进涉税事项跨省“通办”促税务“放管服”改革深化</a>
+                      <span class="newicon" style="display:none;">否</span></li>
+
+                    <li data-icon="">
+                      <a href="/chinatax/n810219/n810724/c5166548/content.html" target="_blank" title="中共中央宣传部举行中外记者见面会 5名税务党员讲述“坚守初心 税收为民”故事">中共中央宣传部举行中外记者见面会 5名税务党员讲述“坚守初心 税收为民”故事</a>
+                      <span class="newicon" style="display:none;">否</span></li>
+
+                    <li data-icon="">
+                      <a href="/chinatax/n810219/n810724/c5166356/content.html" target="_blank" title="王军在培育市场主体优化营商环境研讨会上的主旨演讲（全文）">王军在培育市场主体优化营商环境研讨会上的主旨演讲（全文）</a>
+                      <span class="newicon" style="display:none;">否</span></li>
+
+                    <li data-icon="">
+                      <a href="/chinatax/n810219/n810724/c5166547/content.html" target="_blank" title="中宣部举行中外记者见面会，5名税务系统党员代表分享体会——秉承初心担使命 服务人民作贡献">中宣部举行中外记者见面会，5名税务系统党员代表分享体会——秉承初心担使命 服务人民作贡献</a>
+                      <span class="newicon" style="display:none;">否</span></li>
+
+
+                </ul>      
+              </div>
+              <div class="ml_meiti_b_middle">
+                <ul>
+                   
+
+                    <li>
+                      <a href="/chinatax/n810351/n810911/c5166434/content.html" target="_blank" title="周明浩：一心服务改革，奋力书写闪亮人生">周明浩：一心服务改革，奋力书写闪亮人生</a>
+                      <span class="newicon" style="display:none;">否</span><span class="swyw-type" style="display:none;">百年党员讲税收故事</span></li>
+
+                    <li>
+                      <a href="/chinatax/n810351/n810911/c5166475/content.html" target="_blank" title="寻访高君宇革命之路 感受信仰的力量">寻访高君宇革命之路 感受信仰的力量</a>
+                      <span class="newicon" style="display:none;">否</span><span class="swyw-type" style="display:none;">税务青年学党史</span></li>
+
+                    <li>
+                      <a href="/chinatax/n810351/n810911/c5166377/content.html" target="_blank" title="思想建党政治建军 古田会议永放光芒">思想建党政治建军 古田会议永放光芒</a>
+                      <span class="newicon" style="display:none;">否</span><span class="swyw-type" style="display:none;">税务青年学党史</span></li>
+
+
+
+                </ul>      
+              </div>
+
+              <div class="ckgd_more"><a href="/chinatax/n810219/n810724/common_list_swxw.html">查看更多</a></div>
+            </div>
+          </div>
+          <div class="clear"></div>
+        </div>
+
+      </div>
+
+      <script type="text/javascript">
+        $(document).on('ready',function(){
+
+          setSwyw();
+
+          var swjtObj = {
+            src:'./images/public/swjt-icon-20200702.png',
+            link:'/n810219/n810744/c101624/index.html',
+            tempClass1:'sszycfz-link',
+            tempClass2:'sszycfz-swjt'
+          };
+          var gdslObj = {
+            src:'./images/public/gdsl-20200326.png',
+            link:'',
+            tempClass1:'',
+            tempClass2:'sszycfz-gdsl'
+          };
+          var mdzcObj = {
+            src:'./images/public/mdzc-icon-20200709.png',
+            link:'/n810341/c101683/index.html',
+            tempClass1:'sszycfz-link',
+            tempClass2:'sszycfz-swjt swyw-mdzc'
+          };
+          var tjssObj = {
+            src:'./images/public/tjss_icon_20210223.png',
+            link:'/n810341/n2340339/index.html',
+            tempClass1:'sszycfz-link',
+            tempClass2:'sszycfz-swjt swyw-tjss'
+          };
+          var spdpObj = {
+            src:'./images/public/swxw-video-icon-20200311.png',
+            link:'',
+            tempClass1:'',
+            tempClass2:'swxw-video-icon'
+          };
+          var zfsjObj = {
+            src:'./images/public/zfsj-icon-20201015.png',
+            link:'',
+            tempClass1:'',
+            tempClass2:'swyw-zfsj '
+          };
+          var sswObj = {
+            src:'./images/public/ssw-icon-20201020.png',
+            link:'',
+            tempClass1:'',
+            tempClass2:'swyw-ssw '
+          };
+          var wzqhObj = {
+            src:'./images/public/sjjwzqh-swxw-20201116.jpg',
+            link:'/n810219/n810744/c101706/index.html',
+            tempClass1:'swyw-wzqh-link',
+            tempClass2:'swyw-wzqh'
+          };
+          var gjxfrObj = {
+            src:'./images/public/gjxfr-icon-20201203.png',
+            link:'',
+            tempClass1:'',
+            tempClass2:'swyw-zfsj '
+          };
+          var bnxzcObj = {
+            src:'./images/public/bnxzc_icon_20210128.png',
+            link:'/n810219/n810744/c101774/index.html',
+            tempClass1:'',
+            tempClass2:'swyw-bnxzc'
+          };
+          var ssssObj = {
+            src:'./images/public/ssss_20210223.png',
+            link:'',
+            tempClass1:'sszycfz-link',
+            tempClass2:'swyw-tjss-2 swyw-tjss'
+          };
+          var xjdxObj = {
+            src:'./images/public/xjdx_20210223.png',
+            link:'/n810219/n810744/c101733//index.html#xjdxt',
+            tempClass1:'sszycfz-link',
+            tempClass2:'swyw-tjss-2 swyw-tjss'
+          };
+          var dbwyhssObj = {
+            src:'./images/public/dbwyhss-20200520.png',
+            link:'',
+            tempClass1:'',
+            tempClass2:'swyw-ssw'
+          };
+           var ssxcyObj = {
+            src:'./images/public/5065077.jpg',
+            link:'/n810219/n810744/c101767/index.html',
+            tempClass1:'',
+            tempClass2:'swyw-ssxcy'
+          };
+          var bmdyObj = {
+            src:'./images/public/10b90345da035355483f3411eb07399.png',
+            link:'/c101799/dsxxjy_list3.html',
+            tempClass1:'',
+            tempClass2:'swyw-bmdy'
+          };
+            var swqnObj = {
+            src:'./images/public/swqnxds.jpg',
+            link:'/n810219/n810744/c101746/c101752/c101787//index.html',
+            tempClass1:'',
+            tempClass2:'swyw-swqn'
+          };
+          $('.ml_meiti_b_top li').each(function(){
+            var tempType = $(this).attr('data-icon');
+            if(tempType == '十三五'){
+              tempHtml = makeTempHtmlString(false,sswObj);
+              $(tempHtml).prependTo($(this).find('a'));
+            }else if(tempType == '五中全会'){
+              tempHtml = makeTempHtmlString(true,wzqhObj);
+              $(tempHtml).prependTo($(this));
+            }else if(tempType == '百年路'){
+              tempHtml = makeTempHtmlString(true,bnxzcObj);
+              $(tempHtml).prependTo($(this).find('a'));
+            }else if(tempType == '代表委员话税收'){
+              tempHtml = makeTempHtmlString(false,dbwyhssObj);
+              $(tempHtml).prependTo($(this).find('a'));
+            }else if(tempType == '税收宣传月'){
+              tempHtml = makeTempHtmlString(true,ssxcyObj);
+              $(tempHtml).prependTo($(this).find('a'));
+            }
+
+          });
+          $('.ml_meiti_b_middle li').each(function(){
+            var tempType = $(this).find('.swyw-type').text();
+            var tempHtml = '';
+            if(tempType == '税务讲堂'){
+              tempHtml = makeTempHtmlString(true,swjtObj);
+              // console.log(tempHtml)
+              $(tempHtml).prependTo($(this));
+            }
+            else if(tempType == '各地速览'){
+              tempHtml = makeTempHtmlString(false,gdslObj);
+              // console.log(tempHtml)
+              $(tempHtml).prependTo($(this).find('a'));
+            }
+            else if(tempType == '视频'){
+              tempHtml = makeTempHtmlString(false,spdpObj);
+              // console.log(tempHtml)
+              $(tempHtml).prependTo($(this).find('a'));
+            }
+            else if(tempType == '秒懂政策'){
+              tempHtml = makeTempHtmlString(true,mdzcObj);
+              $(tempHtml).prependTo($(this));
+            }
+            else if(tempType == '图解税收'){
+              tempHtml = makeTempHtmlString(true,tjssObj);
+              $(tempHtml).prependTo($(this));
+            }else if(tempType == '正风肃纪'){
+              tempHtml = makeTempHtmlString(false,zfsjObj);
+              $(tempHtml).prependTo($(this).find('a'));
+            }else if(tempType == '五中全会'){
+              tempHtml = makeTempHtmlString(true,wzqhObj);
+              $(tempHtml).prependTo($(this));
+            }else if(tempType == '国家宪法日'){
+              tempHtml = makeTempHtmlString(false,gjxfrObj);
+              $(tempHtml).prependTo($(this).find('a'));
+            }else if(tempType == '数说税收'){
+              tempHtml = makeTempHtmlString(false,ssssObj);
+              $(tempHtml).prependTo($(this).find('a'));
+            }else if(tempType == '先进典型'){
+              tempHtml = makeTempHtmlString(true,xjdxObj);
+              $(tempHtml).prependTo($(this));
+            }else if(tempType == '税收宣传月'){
+              tempHtml = makeTempHtmlString(true,ssxcyObj);
+              $(tempHtml).prependTo($(this).find('a'));
+            }else if(tempType == '税务青年学党史'){
+              tempHtml = makeTempHtmlString(true,swqnObj);
+              $(tempHtml).prependTo($(this).find('a'));
+            }else if(tempType == '百年党员讲税收故事'){
+              tempHtml = makeTempHtmlString(true,bmdyObj);
+              $(tempHtml).prependTo($(this).find('a'));
+            }else{
+              console.log('摘要未标注！')
+            }
+          });
+          function makeTempHtmlString(flage,tempObj){
+            var tempString = '';
+            // true 时，图标带栏目链接，false时，图标为该文章链接
+            if(flage){
+              tempString = '<a href="/chinatax'+tempObj.link+'" target="_blank" class="'+tempObj.tempClass1+'"><img src="/chinatax/xhtml/'+tempObj.src+'" class="'+tempObj.tempClass2+'"></a>';
+
+            }else{
+              tempString = '<img src="/chinatax/xhtml/'+ tempObj.src +'" class="'+ tempObj.tempClass2 +'">';
+            }
+            return tempString;
+          }
+
+          /**
+           *目的：PC端与移动端保持显示的内容相同；
+           *税务要闻区域PC端一共9行，分为要闻区域和专区。
+           *方法：摘要里录入三位数，默认643，如 ABC，A：{6,7,8,9} ,代表税务要闻占几行（专区则占 9-A 行）；B:取{不大于A}，代表税务新闻有几条，超过的则动态隐藏；C：{0,1,2,3}，专区显示的条数（条数不能小于 9-A）。如：851, 8-税务要闻8行，5-税务要闻显示5条，超出的5条的隐藏，1-专区显示1条，超出1条的隐藏。
+           *通过第一条税务要闻摘要来设置 class
+           *
+           */ 
+          function setSwyw(){
+            var swywLine,swywLength,swzqLength;
+            var tempClassName = 'ml_yaowen_line';
+            var dataSwywFlag = $('.ml_meiti_b_top').find('li').eq(0).attr('data-line');
+            if(dataSwywFlag == ''){
+              dataSwywFlag = '643';
+              // console.log('---------未设置')
+            }else if(dataSwywFlag.length !== 3){
+              dataSwywFlag = '643';
+              // console.log('---------不是三位数');
+            }            
+            swywLine = dataSwywFlag[0];
+            swywLength = dataSwywFlag[1];
+            swzqLength = dataSwywFlag[2];
+            //if((swzqLength<(9-swywLine)) || swywLength>swywLine){
+            // console.log('---------值有错，未达到临界值');
+            // return false;
+            // }
+            if(swywLine>5&&swywLine<10){
+              tempClassName = tempClassName+swywLine;
+              $('.ml_yaowen').addClass(tempClassName);
+              $('.ml_meiti_b_top li:gt('+(swywLength-1)+')').hide();
+              $('.ml_meiti_b_middle li:gt('+(swzqLength-1)+')').hide();
+            }
+          }
+        });
+      </script>
+
+
+      <!--  20200310 shui wu xin wen tong lan  -end  -->
+
+
+
+      <div class="m_left fl">
+        <!--start component 图片列表(new)-->
+
+        <div class="common1">
+          <div class="ml_meiti mtsd_l fl ggbf meiti_yqfkzjz">
+            <div class="ml_meiti_t">
+              <a href="javascript:;" style="line-height: 0;width:240px;padding-top: 0;padding-bottom: 5px;cursor:default;"><img src="/chinatax/xhtml/images/public/zxxqx_icon_20210129.png" alt=""  style="width: 100%;"></a>
+            </div>
+            <div class="mtsd_b">
+              <ul style="margin-top: 18px;">
+                 
+
+                  <li><a title="我国税收征管改革持续推进“异地通办”清单不断扩容" target="_blank" href="/chinatax/n810219/n810744/c101763/c101764/c5166709/content.html">我国税收征管改革持续推进“异地通办”清单不断扩容</a></li>
+
+                  <li><a title="税收数据显示市场主体展现蓬勃活力" target="_blank" href="/chinatax/n810219/n810780/c5166445/content.html">税收数据显示市场主体展现蓬勃活力</a></li>
+
+                  <li><a title="税收征管一体化、便利化 长三角发展按下“快进键”" target="_blank" href="/chinatax/n810219/n810780/c5166442/content.html">税收征管一体化、便利化 长三角发展按下“快进键”</a></li>
+
+                  <li><a title="掌上办、便捷办！税务贴心服务解难题" target="_blank" href="/chinatax/n810219/n810744/c101763/c101789/c5166451/content.html">掌上办、便捷办！税务贴心服务解难题</a></li>
+
+                  <li><a title="甘肃：用心用情 精准助力小微成长" target="_blank" href="/chinatax/n810219/n810739/c5166630/content.html">甘肃：用心用情 精准助力小微成长</a></li>
+
+                  <li><a title="税务总局推出系列服务措施提升企业退税效率" target="_blank" href="/chinatax/n810219/n810780/c5166202/content.html">税务总局推出系列服务措施提升企业退税效率</a></li>
+
+                  <li><a title="税收数据赋能“精细服务” 加速释放市场主体活力" target="_blank" href="/chinatax/n810219/n810780/c5166293/content.html">税收数据赋能“精细服务” 加速释放市场主体活力</a></li>
+
+
+              </ul>
+              <!--<div class="ckgd_more"><a href="/chinatax/n810219/n810744/c101510/index.html">查看更多</a></div>-->
+
+
+            </div>
+          </div>
+          <div class="ml_meiti mtsd_r fr ggbf zxwj">
+            <div class="ml_meiti_t wjzc shsjyc">
+              <a class="hot" href="/chinatax/n810341/n810755/common_zxwj_list.html" target="_blank">最新文件</a>
+              <a href="/chinatax/n810341/n810760/common_zcjd_list.html" target="_blank">政策解读</a>
+              <a href="/chinatax/n810341/c101683/common_zcjd_list.html" target="_blank" style='margin-right:0;'>秒懂政策</a>
+            </div>
+            <div class="ml_meiti_t wjzc shsjxs ">
+              <li class="hot">最新文件</li>
+              <li class="">政策解读</li>
+              <li class=""style='margin-right:0;'>秒懂政策</li>
+            </div>
+            <div id="wenjian_con1" class="zxwj_b active">
+              <ul>
+                 
+
+                  <li class="zxwj"><a href="/chinatax/n810341/n810825/c101434/c5166617/content.html" target="_blank" title='税务稽查案件办理程序规定'  >税务稽查案件办理程序规定</a><span class="newicon" style="display:none;">否</span></li>
+
+                  <li class="zxwj"><a href="/chinatax/n810341/n810825/c101434/c5166308/content.html" target="_blank" title='关于海南自由贸易港进出岛航班加注保税航油政策的通知'  >关于海南自由贸易港进出岛航班加注保税航油政策的通知</a><span class="newicon" style="display:none;">否</span></li>
+
+                  <li class="zxwj"><a href="/chinatax/n359/c5166427/content.html" target="_blank" title='关于增值税 消费税与附加税费申报表整合有关事项的公告'  >关于增值税 消费税与附加税费申报表整合有关事项的公告</a><span class="newicon" style="display:none;">否</span></li>
+
+                  <li class="zxwj"><a href="/chinatax/n810341/n810825/c101434/c5166624/content.html" target="_blank" title='关于公布全文和部分条款失效废止的税务规范性文件目录的公告'  >关于公布全文和部分条款失效废止的税务规范性文件目录的公告</a><span class="newicon" style="display:none;">否</span></li>
+
+                  <li class="zxwj"><a href="/chinatax/n375/c5166305/content.html" target="_blank" title='关于贯彻实施契税法若干事项执行口径的公告'  >关于贯彻实施契税法若干事项执行口径的公告</a><span class="newicon" style="display:none;">否</span></li>
+
+                  <li class="zxwj"><a href="/chinatax/n810341/n810825/c101434/c5166420/content.html" target="_blank" title='关于第七批全国税务领军人才学员选拔笔试的通告'  >关于第七批全国税务领军人才学员选拔笔试的通告</a><span class="newicon" style="display:none;">否</span></li>
+
+                <div class="ckgd_more"><a href="/chinatax/n810341/n810755/common_zxwj_list.html">查看更多</a></div>
+              </ul>
+            </div>
+            <!--start component 新闻列表(解读)-->
+            <div class="zxwj_b" id="wenjian_con2">
+              <ul>
+                 
+
+                  <li  class="zcjd"><a href="/chinatax/n810341/n810760/c5166625/content.html" target="_blank" title='关于《国家税务总局关于公布全文和部分条款失效废止的税务规范性文件目录的公告》的解读'  >关于《国家税务总局关于公布全文和部分条款失效废止的税务规范性文件目录的公告》的解...</a><span class="newicon" style="display:none;">否</span></li>
+                  <li  class="zcjd"><a href="/chinatax/n810341/n810760/c5166618/content.html" target="_blank" title='关于《国家税务总局关于部分税务证明事项实行告知承诺制 进一步优化纳税服务的公告》的解读'  >关于《国家税务总局关于部分税务证明事项实行告知承诺制 进一步优化纳税服务的公告》的...</a><span class="newicon" style="display:none;">否</span></li>
+                  <li  class="zcjd"><a href="/chinatax/n810341/n810760/c5166616/content.html" target="_blank" title='关于《税务稽查案件办理程序规定》的解读'  >关于《税务稽查案件办理程序规定》的解读</a><span class="newicon" style="display:none;">否</span></li>
+                  <li  class="zcjd"><a href="/chinatax/n810341/n810760/c5166430/content.html" target="_blank" title='关于《国家税务总局关于增值税 消费税与附加税费申报表整合有关事项的公告》的解读'  >关于《国家税务总局关于增值税 消费税与附加税费申报表整合有关事项的公告》的解读</a><span class="newicon" style="display:none;">否</span></li>
+                  <li  class="zcjd"><a href="/chinatax/n810341/n810760/c5166114/content.html" target="_blank" title='关于《国家税务总局 国家外汇管理局关于服务贸易等项目对外支付税务备案有关问题的补充公告》的解读'  >关于《国家税务总局 国家外汇管理局关于服务贸易等项目对外支付税务备案有关问题的补充...</a><span class="newicon" style="display:none;">否</span></li>
+                  <li  class="zcjd"><a href="/chinatax/n810341/n810760/c5166026/content.html" target="_blank" title='关于《国家税务总局关于修订发布〈研发机构采购国产设备增值税退税管理办法〉的公告》的解读'  >关于《国家税务总局关于修订发布〈研发机构采购国产设备增值税退税管理办法〉的公告》...</a><span class="newicon" style="display:none;">否</span></li>
+
+                <div class="ckgd_more"><a href="/chinatax/n810341/n810760/common_zcjd_list.html">查看更多</a></div>
+              </ul>
+            </div>
+            <!-- 秒懂政策 -->
+            <div id="wenjian_con3" class="zxwj_b">
+              <ul>
+                 
+
+                  <li class="zxwj"><a href="/chinatax/n810351/n810916/c5164851/content.html" target="_blank" title='财产和行为税合并申报今天起全面推行！3分钟get政策要点'  >财产和行为税合并申报今天起全面推行！3分钟get政策要点</a><span class="newicon" style="display:none;"></span></li>
+
+                  <li class="zxwj"><a href="/chinatax/n810341/c101683/c5163526/content.html" target="_blank" title='好消息！应对疫情部分税费优惠政策延续啦！'  >好消息！应对疫情部分税费优惠政策延续啦！</a><span class="newicon" style="display:none;"></span></li>
+
+                  <li class="zxwj"><a href="/chinatax/n810351/n810916/c5162474/content.html" target="_blank" title='2分钟了解：政府工作报告有哪些涉税干货'  >2分钟了解：政府工作报告有哪些涉税干货</a><span class="newicon" style="display:none;"></span></li>
+
+                  <li class="zxwj"><a href="/chinatax/n810341/c101683/c5160724/content.html" target="_blank" title='3分钟了解个税预扣预缴新规'  >3分钟了解个税预扣预缴新规</a><span class="newicon" style="display:none;"></span></li>
+
+                  <li class="zxwj"><a href="/chinatax/n810341/c101683/c5159989/content.html" target="_blank" title='个税预扣预缴方法进一步简便优化！3分钟了解对你有啥影响'  >个税预扣预缴方法进一步简便优化！3分钟了解对你有啥影响</a><span class="newicon" style="display:none;"></span></li>
+
+                  <li class="zxwj"><a href="/chinatax/n810341/c101683/c5158366/content.html" target="_blank" title='外贸企业看过来！出口货物因疫情不可抗力退运可享税收减免'  >外贸企业看过来！出口货物因疫情不可抗力退运可享税收减免</a><span class="newicon" style="display:none;"></span></li>
+
+                <div class="ckgd_more"><a href="/chinatax/n810341/c101683/common_zcjd_list.html">查看更多</a></div>
+              </ul>
+            </div>
+          </div>
+          <!--问答库开始-->
+          <div class="g_wd shsjyc">
+            <div class="g_wd_l"><a href="/chinatax/n810219/n810744/c101671/index.html" target="_blank" style="width:100%;height:100%;" title='税收助力 脱贫攻坚'><img src="/chinatax/xhtml/images/public/pic_03041.jpg"/></a></div>
+            <div class="g_wd_r"><a href="/chinatax/n810219/n810744/c101624/index.html" target="_blank" style="width:100%;height:100%;" title='税务讲堂'><img src="/chinatax/xhtml/images/public/pic_03042.jpg"/></a></div>
+            <div class="coler"></div>
+          </div>
+          <div class="clear"></div>
+        </div>
+        <!--问答库结束-->
+        <!--start component HTML组件(专题)-->
+        <div class="common1">
+          <div class="ml_meiti zt ggbf fl shsjyc">
+            <div class="ml_meiti_t">
+              <a href="/chinatax/n810219/n810744//index.html" target="_blank">专题</a>
+            </div>
+            <div class="zt_b mt20">
+              <ul>
+                <li>
+                  <a class="bwcx shsjxs" href="/chinatax/n810219/n810744/n4418335/index.html" target="_blank" ><img src="/chinatax/xhtml/images/index/xxqg.jpg"></a>
+                  <a style="display:none;" class="xcy" href="/chinatax/n810219/n810744/n4016641/index.html" target="_blank" title='减税降费在行动'><img src="/chinatax/xhtml/images/public/jsjf-20200211-01.jpg"/></a>
+                  <!--<a class="xcy" href="/chinatax/n810219/n810744/c101671/index.html" target="_blank"><img src="/chinatax/xhtml/images/public/tpgj-ztrk-20200624.png"/></a>-->   
+                  <a class="grsds" href="/chinatax/n810219/n810744/n4016641/index.html" target="_blank" title='减税降费在行动'><img src="/chinatax/xhtml/images/public/pic_03044.jpg"/></a>
+                  <a class="zgtz" href="/chinatax/n810219/n810744/c101767//index.html" target="_blank" title='第30个全国税收宣传月'><img src="/chinatax/xhtml/images/pic_20210401.png"/></a>
+                  <!-- <a class="xcy" href="http://www.wenming.cn/sbhr_pd/sbhr_zghsg/" target="_blank"><img src="/chinatax/xhtml/images/public/zghsg.jpg"/></a>          -->                       
+                  <a class="grsds" href="/chinatax/n810219/n810744/n3752930//index.html" target="_blank" title='个人所得税综合所得年度汇算'><img src="/chinatax/xhtml/images/public/pic_03046.jpg"/></a>
+                  <a class="zgtz" href="/chinatax/n810219/n810744/n1671176/index.html" target="_blank" title='税收服务“一带一路”'><img src="/chinatax/xhtml/images/public/pic_03047.jpg"/></a>
+                  <a style="display:none;" class="zzs" href="/chinatax/n810219/n810744/n1671176/index.html" target="_blank" title='税收服务“一带一路”'><img src="/chinatax/xhtml/images/public/pic_03047.jpg"/></a>
+                  <a class="yhhj" href="https://taxlaw.qspfw.com/html/index.html" target="_blank" title='青少年税法学堂' style="display:none;"><img src="/chinatax/xhtml/images/public/qnxt-20200520-02.png"/></a>
+                  <!--<a class="xcy" href="https://taxlaw.qspfw.com/html/index.html" target="_blank"><img src="/chinatax/xhtml/images/public/g_qsnfxt.png"/></a> -->
+                </li>
+              </ul>
+            </div>
+          </div>
+          <!--start component 新闻列表(各地动态)-->
+
+          <!--start component HTML组件(法规库)-->
+          <div class="mc_faguiku ml_meiti fr">
+            <div class="mc_faguiku">
+              <div class="fgk_t">
+                <a href="/chinatax/n810341/n810825/index.html?title=" target="_blank" class="z3">政策库</a>
+                <span>
+                  <a href="http://www.gov.cn/zhengce/xxgkzl.htm" target="_blank">
+                    <img src="/chinatax/xhtml/images/public/sy_zfwwj.jpg">
+                  </a>
+                </span>
+              </div>
+              <style>
+                .mc_faguiku .fgk_t{
+                  height:42px;
+                  line-height:42px;
+                  border-bottom: 2px solid #e3e3e3;
+
+                }
+
+                .mc_faguiku .fgk_t a{
+                  display: inline-block;
+                  color: #077fd3;
+                  font-weight: bold;
+                  border-bottom: 2px solid #077fd3;
+                  font-size: 18px;
+                }
+
+                .mc_faguiku .mcf_hot{
+                  margin-top:20px;
+                  padding: 12px 5px 20px;
+                  margin-bottom:10px;                       
+                }
+                .mc_faguiku .mcf_hot{
+                  background: url(/chinatax/xhtml/images/public/zck-20200519-03.png) no-repeat;
+                }
+                .mcf_hot .wjsos{
+                  border-color: #81b8e3;
+                  margin-bottom: 4px;
+                  background: url(/chinatax/xhtml/images/public/zck-20200519-02.png);
+                }
+                .mcf_hot .wjsos input.text1{
+                  font-size: 14px;
+                  width: 82%;
+                  background: transparent;
+                }
+                .mcf_hot .wjsos input.sosbtn{
+                  background: url(/chinatax/xhtml/images/public/zck-20200519-01.png) no-repeat center center;
+                  width: 50px;
+                  height: 40px;
+                }
+                .rc{
+                  margin-top: 0;
+                  margin-left: 13px;
+
+                }
+                .mc_faguiku .mcf_hot span{
+                  line-height: 22px;
+                }
+                .mc_faguiku .mcf_hot span,.mc_faguiku .mcf_hot .rc a{
+                  font-size: 14px;
+                }
+                .xt-container a{
+                  display: block;
+                  width: 100%;
+                  float: left;
+                }
+                .xt-container img{
+                  width: 100%;
+                  height: 37px;
+                }
+                .xt-container a.xt-container-right{
+                  float: right;
+                }
+                @media screen and (max-width:768px){
+                  .mc_faguiku .mcf_hot{
+                    background-size:100% 100%;
+                  }
+                }
+
+                #wenjian_con2.zxwj_b ul li{
+                  line-height:28px;
+                }
+              </style>
+              <div class="mcf_hot">
+                <a href="/chinatax/n810346/n810825/index.html?title=" target="_blank"  class="xcy"  style='display:none;'><span>税收政策库</span><img src="/chinatax/xhtml/images/public/zcfgk-new.jpg"/></a>
+                <div class="wjsos">
+                  <form action="/chinatax/n810341/n810825/index.html" method="get" target="_blank">
+                    <input class="text1" type="text" name="title" placeholder="请输入文件名" value="">
+                    <input type="submit" class="sosbtn" value=""/>
+                  </form>
+                </div>
+                <div class="rc">
+                  <span style='margin-left:0;'>热词：</span><br>
+                  <a href="/chinatax/n810341/n810825/index.html?title=税收优惠" target="_blank">税收优惠</a> |
+                  <a href="/chinatax/n810341/n810825/index.html?title=出口退税率" target="_blank">出口退税率</a> |
+                  <a href="/chinatax/n810341/n810825/index.html?title=个人所得税" target="_blank">个人所得税</a> |
+                  <a href="/chinatax/n810341/n810825/index.html?title=小微企业" target="_blank">小微企业</a>
+                </div>
+              </div>
+            </div>
+            <!--<a class="xcy" href="https://taxlaw.qspfw.com/html/index.html" target="_blank" style='display:block;width:100%;'><img src="/chinatax/xhtml/images/public/g_qsnfxt.png"  style='display:block;width:100%;'/></a>-->
+            <div class="xt-container">
+              <a href="https://taxlaw.qspfw.com/html/index.html"  target="_blank" title='青少年税法学堂'><img src="/chinatax/xhtml/images/public/pic_03043.jpg"></a>
+
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="clear"></div>
+          <div class="common">
+            <div class="ml_meiti fl hq_mt">
+              <div class="ml_meiti_t">
+                <a href="/chinatax/n810219/n810780/common_mtsd_list.html" target="_blank">媒体视点</a>
+              </div>
+              <div class="mtsd_b">
+                <ul class="shsjyc">
+                   
+
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810780/c5166726/content.html" target="_blank" title='[经济日报]跨省“易”办税 活力“通”南北'  >[经济日报]跨省“易”办税 活力“通”南北</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810780/c5166724/content.html" target="_blank" title='[科技日报]做减税降费政策举措落地生根的“护航者”——记“坚守初心 税收为民”中外记者见面会'  >[科技日报]做减税降费政策举措落地生根的“护航者”——记“坚守...</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810780/c5166722/content.html" target="_blank" title='[人民网]税务总局：8月1日起全国推行增值税、消费税及附加税费申报表整合'  >[人民网]税务总局：8月1日起全国推行增值税、消费税及附加税费申...</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810780/c5166719/content.html" target="_blank" title='[第一财经]税务稽查办案程序升级 不断提升税务执法精确度'  >[第一财经]税务稽查办案程序升级 不断提升税务执法精确度</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810780/c5166640/content.html" target="_blank" title='[经济日报]中宣部举行中外记者见面会 税务系统党员代表共话税收为民'  >[经济日报]中宣部举行中外记者见面会 税务系统党员代表共话税收为...</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810780/c5166636/content.html" target="_blank" title='[人民网]减税降费政策红利助力我国电影行业率先复苏、持续回暖'  >[人民网]减税降费政策红利助力我国电影行业率先复苏、持续回暖</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810780/c5166581/content.html" target="_blank" title='[人民日报]中宣部举行中外记者见面会，5名税务系统党员代表分享体会'  >[人民日报]中宣部举行中外记者见面会，5名税务系统党员代表分享体...</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810780/c5166580/content.html" target="_blank" title='[新华社]坚守初心 税收为民——5位税务系统党员代表的一线故事'  >[新华社]坚守初心 税收为民——5位税务系统党员代表的一线故事</a></li>
+
+                  <div class="ckgd_more"><a href="/chinatax/n810219/n810780/common_mtsd_list.html">查看更多</a></div>
+                </ul>
+                <ul class=" shsjxs">
+                   
+
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810780/c5166726/content.html" target="_blank"  >[经济日报]跨省“易”办税 活力“通”南北</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810780/c5166724/content.html" target="_blank"  >[科技日报]做减税降费政策举措落地生根的“护航者”——记“坚守初心 税收为民”中外记者见面会</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810780/c5166722/content.html" target="_blank"  >[人民网]税务总局：8月1日起全国推行增值税、消费税及附加税费申报表整合</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810780/c5166719/content.html" target="_blank"  >[第一财经]税务稽查办案程序升级 不断提升税务执法精确度</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810780/c5166640/content.html" target="_blank"  >[经济日报]中宣部举行中外记者见面会 税务系统党员代表共话税收为民</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810780/c5166636/content.html" target="_blank"  >[人民网]减税降费政策红利助力我国电影行业率先复苏、持续回暖</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810780/c5166581/content.html" target="_blank"  >[人民日报]中宣部举行中外记者见面会，5名税务系统党员代表分享体会</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810780/c5166580/content.html" target="_blank"  >[新华社]坚守初心 税收为民——5位税务系统党员代表的一线故事</a></li>
+
+                  <div class="ckgd_more"><a href="/chinatax/n810219/n810780/common_mtsd_list.html">查看更多</a></div>
+                </ul>
+              </div>
+            </div>
+            <!--start component 图片列表(图解税收)-->
+            <div class="ml_meiti tjss fr">
+              <div class="ml_meiti_t">
+
+                <a href="/chinatax/n810341/n2340339/common_imglistwyc.html" target="_blank">图解税收</a>
+              </div>
+              <div class="tjsslist tjImg">
+                 
+                  <a href="/chinatax/n810341/n2340339/c5166419/content.html" target="_blank"  title="7月起正式施行！《机动车发票使用办法》政策要点请收好">
+                    <img src="/chinatax//n810341/n2340339/c5166419/5166419/images/69278ef74ccf49b7b92359a59e25d672.jpg
+">                 
+                    <!--<span>
+7月起正式施行！《机动车发票使用办法》政策要点请收好
+</span>-->
+                  </a>
+
+              </div>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="common1">
+            <div class="ml_meiti fl tjss shsjyc">
+              <div class="ml_meiti_t">
+                <a href="/chinatax/n810351/index.html" target="_blank">视频</a>
+              </div>
+              <div class="tjsslist">
+
+                <div id="box_3" class="device_3">
+                  <div class="slider-carousel">
+                     
+                      <div class="item">
+                        <div class="pannel-image">
+                          <a href="/chinatax/n810219/n810734/c5166567/content.html" target="_blank" title="央视新闻联播：中宣部举行“坚守初心 税收为民”中外记者见面会"> 
+                            <img  src="/chinatax//n810351/c5166573/5166573/images/32b0e22e84d443409d16873e37d186b1.JPG
+">
+                          </a>
+                        </div> 
+                        <!--<div class="titBg"> </div> 
+<div class="subtitle">
+<h6><a href="/chinatax/n810219/n810734/c5166567/content.html" target="_blank"  >央视新闻联播：中宣部举行“坚守初心 税收为民”中外记者见面会</a></h6>
+</div>-->
+                      </div>
+                      <div class="item">
+                        <div class="pannel-image">
+                          <a href="/chinatax/n810351/n810911/c5166068/content.html" target="_blank" title="不忘来时路——税务人口述党领导下的百年税收史"> 
+                            <img  src="/chinatax//n810351/c5166070/5166070/images/338633ab60d149af885b7d7ab6b3a212.jpg
+">
+                          </a>
+                        </div> 
+                        <!--<div class="titBg"> </div> 
+<div class="subtitle">
+<h6><a href="/chinatax/n810351/n810911/c5166068/content.html" target="_blank"  >不忘来时路——税务人口述党领导下的百年税收史</a></h6>
+</div>-->
+                      </div>
+                      <div class="item">
+                        <div class="pannel-image">
+                          <a href="/chinatax/n810351/n810911/c5166347/content.html" target="_blank" title="岁月为证——从税收老物件看百年奋斗路（下）"> 
+                            <img  src="/chinatax//n810351/c5166348/5166348/images/e99667753fc34c86b9cf7962e1ef6e4f.jpg
+">
+                          </a>
+                        </div> 
+                        <!--<div class="titBg"> </div> 
+<div class="subtitle">
+<h6><a href="/chinatax/n810351/n810911/c5166347/content.html" target="_blank"  >岁月为证——从税收老物件看百年奋斗路（下）</a></h6>
+</div>-->
+                      </div>
+
+                  </div> 
+                </div>
+
+              </div>
+            </div>
+
+            <!--start component 新闻列表(new)-->
+            <div class="ml_meiti fr zx_gddt">
+              <div class="ml_meiti_t">
+                <a href="/chinatax/n810219/n810739/common_xwfb_list.html" target="_blank">各地动态</a>
+              </div>
+              <div class="mtsd_b">
+                <ul class="shsjyc">
+                   
+
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810739/c5166628/content.html" target="_blank" title='宁夏：精准落实政策 提速出口退税'  >宁夏：精准落实政策 提速出口退税</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810739/c5166563/content.html" target="_blank" title='河北：32项便利化措施为市场主体添活力'  >河北：32项便利化措施为市场主体添活力</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810739/c5166511/content.html" target="_blank" title='吉林：税收相伴企业创新路'  >吉林：税收相伴企业创新路</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810739/c5166510/content.html" target="_blank" title='四川：“放管服”为市场主体增活力'  >四川：“放管服”为市场主体增活力</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810739/c5166484/content.html" target="_blank" title='新疆：上半年新办涉税市场主体29.38万户'  >新疆：上半年新办涉税市场主体29.38万户</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810739/c5166370/content.html" target="_blank" title='安徽：“体验师”+“监督员” 助税费服务提升'  >安徽：“体验师”+“监督员” 助税费服务提升</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810739/c5166414/content.html" target="_blank" title='江西：重点税源行业景气指数处高位'  >江西：重点税源行业景气指数处高位</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810739/c5166326/content.html" target="_blank" title='辽宁：春雨润苗 助力小微企业成长'  >辽宁：春雨润苗 助力小微企业成长</a></li>
+
+                  <div class="ckgd_more"><a href="/chinatax/n810219/n810739/common_xwfb_list.html">查看更多</a></div>
+                </ul>
+                <ul class="shsjxs">
+                   
+
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810739/c5166628/content.html" target="_blank"  >宁夏：精准落实政策 提速出口退税</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810739/c5166563/content.html" target="_blank"  >河北：32项便利化措施为市场主体添活力</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810739/c5166511/content.html" target="_blank"  >吉林：税收相伴企业创新路</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810739/c5166510/content.html" target="_blank"  >四川：“放管服”为市场主体增活力</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810739/c5166484/content.html" target="_blank"  >新疆：上半年新办涉税市场主体29.38万户</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810739/c5166370/content.html" target="_blank"  >安徽：“体验师”+“监督员” 助税费服务提升</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810739/c5166414/content.html" target="_blank"  >江西：重点税源行业景气指数处高位</a></li>
+                    <li style="width:98%;"><a href="/chinatax/n810219/n810739/c5166326/content.html" target="_blank"  >辽宁：春雨润苗 助力小微企业成长</a></li>
+
+                  <div class="ckgd_more"><a href="/chinatax/n810219/n810739/common_xwfb_list.html">查看更多</a></div>
+                </ul>
+              </div>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+      </div>
+      <!-- right -->
+      <div class="m_right fl shsjyc">
+        <div class="mr_bgc bgc_t">
+          <div class="mr_12366_c">
+            <a href="https://12366.chinatax.gov.cn/" class="nsfwpt" target="_blank"></a>
+            <ul>
+              <li class="znzx nsfwpt1"><a href="https://12366.chinatax.gov.cn/xiaohui/?guide=1.2" target="_blank" title="智能咨询">
+                <img src="/chinatax/xhtml/images/public/pic_03051.png">
+                </a></li>           
+              <li class="wsbs  nsfwpt3"><a href="https://12366.chinatax.gov.cn/bsfw/onlinetaxation/main" target="_blank" title="网上办税">
+                <img src="/chinatax/xhtml/images/public/pic_03052.png">
+                </a></li>
+              <li class="xzxk  nsfwpt4" style='margin-left:10px;'><a href="https://12366.chinatax.gov.cn/bsfw/calendar/main" target="_blank" title="办税日历">
+                <img src="/chinatax/xhtml/images/public/pic_03053.png">
+                </a></li>
+              <li class="nszx nsdt nsfwpt2" style='margin-left:0'><a href="https://12366.chinatax.gov.cn/bsfw/bsdt/" target="_blank" title="办税地图"> <!-- 纳税咨询https://12366.chinatax.gov.cn/nszx/main -->
+               <img src="/chinatax/xhtml/images/public/pic_03054.png">
+                </a></li>
+              <li class="fpcx  nsfwpt5"><a href="https://inv-veri.chinatax.gov.cn/" target="_blank" title="发票查询">
+                <img src="/chinatax/xhtml/images/public/pic_03055.png">
+                </a></li>
+              <li class="tslcx wsbs  nsfwpt6"><a href="http://hd.chinatax.gov.cn/nszx/InitChukou.html" target="_blank" title="退税率查询">
+               <img src="/chinatax/xhtml/images/public/pic_03056.png">
+                </a></li>
+              <li class="nsxy  nsfwpt7"><a href="http://hd.chinatax.gov.cn/nszx/InitCredit.html" target="_blank" title="纳税信用A级纳税人名单">
+               <img src="/chinatax/xhtml/images/public/pic_03057.png">
+                </a></li>
+              <li class="zdaj  nsfwpt8"><a href="/chinatax/c101249/n2020011502/index.html" target="_blank" title="重大税收违法失信案件信息">
+               <img src="/chinatax/xhtml/images/public/pic_03058.png">
+                </a></li>
+              <li class="sws wsbs  nsfwpt9"><a href="https://12366.chinatax.gov.cn/sszyfw/bulletinBoard/main" target="_blank" title="涉税专业服务机构查询">
+                <img src="/chinatax/xhtml/images/public/pic_03059.png">
+                </a></li>
+            </ul> 
+          </div>
+          <!--start component HTML组件(new)-->
+          <div class="mr_banshui">
+            <!--  20200310 办税指南 入口图  -->
+
+            <div class="banshui_t_img"><a href="https://12366.chinatax.gov.cn/bsznBLH/main" target="_blank"><img src="/chinatax/xhtml/images/public/n-bszn-icon-20200311.jpg" style=""></a></div>
+          </div>
+          <!--start component HTML组件(new)-->
+          <div class="ssty">
+            <a href="/chinatax/n810341/n810770/common_list_ssty.html" target="_blank" class="zuo_1" style="">税收条约</a>
+            <a href="/chinatax/n810341/n810765/swgb.html" target="_blank" class="zuo_2">税务公报</a>
+            <a href="http://www.taxation.cn/" target="_blank" class="zuo_3">税收图书</a>
+          </div>
+        </div>
+        <div class="mr_bgc mr_bgc11 bgc_b">
+          <div class="ml_meiti_t  hud">
+            <a href="/chinatax/n810356/index.html" target="_blank">互动</a>
+          </div>
+          <!--start component 意见征集 20200709-->
+
+          <div class="hygqtit yjzjn  yjzjn-xwfbh">
+            <div class="hygq_b">
+              <div class="hygq_t"><a href="/chinatax/n810356/n810961/yjzj_zjjg_list.html" target="_blank">意见征集</a></div>
+              <div class="clearfix"> 
+                <a href="/chinatax/n810356/n810961/c5166506/content.html" target="_blank"><img src="/chinatax/xhtml/images/public/yjzj-index-icon-20200709.png"></a>
+                <h3 style="padding-top:0px;width:168px;"><a href="/chinatax/n810356/n810961/c5166506/content.html" target="_blank" title="《国家税务总局关于城市维护建设税征收管理有关事项的公告（征求意见稿）》公开征求意见">《国家税务总局关于城市维护建设税征收管理有关事项的公告（征求意见稿）》公开征求意见</a></h3>
+              </div> 
+            </div>
+          </div>
+          <!--start component 在线访谈20201201-->
+
+          <div class="hygqtit yjzjn  yjzjn-xwfbh" >
+            <div class="hygq_b">
+              <div class="hygq_t"><a href="/chinatax/n810356/n810946/hudongjl_zxjl.html" target="_blank">在线访谈</a></div>
+              <div class="clearfix"> 
+                <a href="/interview/373/index.html" target="_blank"><img src="/chinatax/xhtml/images/public/zaixianfangtan-icon-20200213.jpg"></a>
+                <h3 style="padding-top:18px;"><a href="/interview/373/index.html" target="_blank" title='“研发费用加计扣除新政策讲解”在线访谈' >“研发费用加计扣除新政策讲解”在线访谈</a></h3>
+              </div> 
+            </div>
+          </div>
+          <!--start component 新闻列表(在线)-->
+
+          <!--start component 图片列表(回应)-->
+          <div class="hygqtit yjzjn yjzjn-20191202"  style="display:none;">
+            <div class="hygq_b">
+              <div class="hygq_t"><a href="/chinatax/n810356/n3010387////index.html" target="_blank">回应关切</a></div>
+               
+
+                <div class="clearfix"> 
+                  <a href="/chinatax/n810356/n3010387/c5166583/content.html" target="_blank"><img src="/chinatax/xhtml/images/public/huiyingguanqie-icon-20200702.png"></a>
+                  <h3 style="padding-top:10px;"><a href="/chinatax/n810356/n3010387/c5166583/content.html" target="_blank" title="申报表整合后，如何进行增值税、消费税及附加税费申报？">申报表整合后，如何进行增值税、消费税及附加税费申报？</a></h3>
+                </div> 
+
+              <!-- <div class="clearfix"> 
+<a href="https://12366.chinatax.gov.cn/zqdetail/getcontentPage?lmbm=13e254fcdfd147e7be18e35463c69c19&contentId=8e0bfd5c72f84b2fa71bd70e65ccb75c&logoid=e48cc09d6fb3012101702e63f6cb2273" target="_blank"><img src="/chinatax/xhtml/images/public/huiyingguanqie-icon.jpg"></a>
+<h3 style="padding-top:20px;"><a href="https://12366.chinatax.gov.cn/zqdetail/getcontentPage?lmbm=13e254fcdfd147e7be18e35463c69c19&contentId=8e0bfd5c72f84b2fa71bd70e65ccb75c&logoid=e48cc09d6fb3012101702e63f6cb2273" target="_blank" title="疫情防控税收优惠政策热点问答（第十一期）">疫情防控税收优惠政策热点问答（第十一期）</a></h3>
+</div> -->
+            </div>
+          </div>
+
+          <!--start component 新闻发布会20191230-->
+
+          <div class="hygqtit yjzjn  yjzjn-xwfbh" style="display:none;">
+            <div class="hygq_b">
+              <div class="hygq_t"><a href="/chinatax/n810219/n1865308/common_xwfb_list.html" target="_blank">新闻发布会</a></div>
+              <div class="clearfix"> 
+                <a href="/chinatax/n810219/n1865308/c5138725/content.html" target="_blank"><img src="/chinatax/xhtml/images/public/xinwenfabuhui-icon.jpg"></a>
+                <h3 style="padding-top:20px;"><a href="/chinatax/n810219/n1865308/c5138725/content.html" target="_blank" title="减税降费红利持续释放便民服务举措集成推出">减税降费红利持续释放<br>便民服务举措集成推出</a></h3>
+              </div> 
+            </div>
+          </div>
+
+
+
+          <div class="hygqtit yjzjn" style='display:none;'>
+            <div class="hygq_b">
+              <div class="hygq_t"><a href="/chinatax/n810356/n810946/hudongjl_zxjl.html" target="_blank">在线访谈</a></div>
+               
+                <a href="http://www.chinatax.gov.cn/interview/373/index.html" target="_blank">
+</a>
+                <h3><a href="http://www.chinatax.gov.cn/interview/373/index.html" target="_blank"  >“研发费用加计扣除新政策讲解”在线访谈</a></h3>
+
+            </div>
+          </div>
+
+          <!--start component 新闻列表(热点问答)-->
+          <!-- 20200324 新版 - 新增icon -->
+          <style type="text/css">
+            .xmt{
+              width: 100%;
+              margin: 8px auto 0;
+              padding-bottom: 5px;
+            }
+            .xmt_top{
+              margin-bottom: 0px;
+
+            }
+            .xmt-top-img-box{
+              position: relative;
+              margin-bottom: 5px;
+              height: 80px;
+              width: 100%;
+            }
+            .xmt-top-img-box img{
+              width: 100%;
+              height: 100%;
+            }
+            .xmt-top-img-tip{
+              position: absolute;
+              top:0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+              background-color: rgba(0,0,0,0.1);
+
+            }
+            .xmt-top-img-tip img{
+              position: absolute;
+              top:50%;
+              left: 50%;
+              width: 40px;
+              height: 40px;
+              margin: -20px 0 0 -20px;
+            }
+            .xmt_top h3{
+              font-size: 15px;
+              line-height: 22px;
+              text-align: justify;
+              font-weight: normal;
+            }
+            .xmt_top h3 a{
+              color: #077fd3;
+            }
+            .xmt_top h3 a:hover{
+              color: #077fd3;
+            }
+            .xmt_list{
+              height: 210px;
+              overflow: hidden;
+            }
+            .XMT .mtsd_b .xmt_list ul li{
+              margin-bottom:0;
+              padding-left: 0;
+              text-indent: 23px;
+              background: url(/chinatax/xhtml/images/public/xmt-shipin-icon.png) no-repeat left 7px;
+            }
+            .XMT .mtsd_b .xmt_list ul li.shipin{
+              background: url(/chinatax/xhtml/images/public/xmt-shipin-icon.png) no-repeat left 7px;
+            }
+            .XMT .mtsd_b .xmt_list ul li.tupian{
+              background: url(/chinatax/xhtml/images/public/xmt-tupian-icon.png) no-repeat left 6px;
+            }
+            .XMT .mtsd_b .xmt_list ul li.wenda{
+              background: url(/chinatax/xhtml/images/public/xmt-wenda-icon.png) no-repeat left 7px;
+            }
+            .XMT .mtsd_b .xmt_list ul li.dianzishu{
+              background: url(/chinatax/xhtml/images/public/xmt-dianzishu-icon.png) no-repeat 1px 5px;
+            }
+            .XMT .mtsd_b .xmt_list ul li.yinyue{
+              background: url(/chinatax/xhtml/images/public/xmt-yinyue-icon.png) no-repeat left 7px;
+            }
+            .XMT .mtsd_b .xmt_list ul{
+              height: auto;
+              margin-top: 5px;
+            }
+            .XMT{
+              margin-top:3px;
+              margin-bottom: 5px;
+            }
+            .main .m_right .bgc_b .hygqtit .hygq_b{
+              margin-top: 20px;
+            }
+            ul.jzxx_b_tu{
+              margin-top:7px;
+            }
+            ul.jzxx_b_tu li{
+              width: auto;
+              margin-right: 0;
+              height: auto;
+              background: none;
+              line-height: normal;
+              border-radius: 0;
+            }
+            ul.jzxx_b_tu li img{
+              width: 100%;
+            }
+            ul.jzxx_b_tu li.jjpt-20200703{
+              width: 100%;
+
+            }
+            ul.jzxx_b_tu li.jzxx-20200703{
+              float: left;
+              width: 150px;
+              margin-bottom: 5px;
+            }
+            ul.jzxx_b_tu li.sswfjj-20200703{
+              float: right;
+              width: 150px;
+              margin-bottom: 5px;
+            }
+            /* 20201111  新增 互联网+税务督查 */ 
+            .XXK .wzdt .wzdt_t>ul.xxkl_1>li ul.neiceng li{
+              height:28px;
+            }
+            .tjsslist{
+              margin-top:18px;
+            }
+            .zx_gddt .mtsd_b ul,.hq_mt .mtsd_b ul{
+              margin-top:18px;
+            }
+
+            .zx_gddt .mtsd_b ul li,.hq_mt .mtsd_b ul li{
+              height:30px;
+            }
+
+            .main .m_right .bgc_b .yjzjn-xwfbh .hygq_b div.clearfix{
+              margin-bottom:10px;
+            }
+            .main .m_right .bgc_b .yjzjn-20191202 .hygq_b div.clearfix{
+              margin-bottom:10px;
+            }
+            ul.jzxx_b_tu li{
+              margin-bottom:5px;
+            }
+            @media screen and (max-width:991px){
+              .zx_gddt .mtsd_b ul li,.hq_mt .mtsd_b ul li{
+                height:auto;
+              }
+            }
+          </style>
+          <div class="ml_meiti XMT">
+            <div class="ml_meiti_t">
+              <a href="/chinatax/n810219/n101397//index.html" target="_blank">新媒体</a>
+            </div>
+            <div class="mtsd_b xmt">
+              <div class="xmt_top">
+                 
+                  <div class="xmt-top-img-box">                          
+                    <a href="/chinatax/n810219/n101397/c5166642/content.html" title="动漫｜施正文：推进税收征管现代化的里程碑改革" target="_blank">
+                      <img src="/chinatax//n810219/n101397/c5166642/5166642/images/e10ac16011e74dac9af67ec85d0b9b83.jpg
+">
+                      <div class="xmt-top-img-tip">
+                        <img src="/chinatax/xhtml/images/public/xmt-play-icon.png">
+                      </div>
+                      <span class="xmt_type" style="display: none;"></span>
+                    </a>
+                  </div>
+                  <h3>
+                    <a href="/chinatax/n810219/n101397/c5166642/content.html" title="动漫｜施正文：推进税收征管现代化的里程碑改革" target="_blank">动漫｜施正文：推进税收征管现代化的里程碑改革</a>
+                  </h3>
+
+              </div>
+
+              <div class="xmt_list">
+                <ul>
+                   
+
+                    <li data-line=''>
+                      <a href="/chinatax/n810219/n101397/c5166692/content.html" title="动漫｜刘剑文：深化税收征管改革 服务国家治理大局"  target="_blank">动漫｜刘剑文：深化税收征管改革 服务国家治理大局</a>
+                      <span class="xmt_type" style="display: none;"></span>
+                    </li>
+
+                   
+
+                    <li>
+                      <a href="/chinatax/n810219/n101397/c5166576/content.html" title="沙画｜守护幸福 税惠民生"  target="_blank">沙画｜守护幸福 税惠民生</a>
+                      <span class="xmt_type" style="display: none;"></span>
+                    </li>
+
+                    <li>
+                      <a href="/chinatax/n810219/n101397/c5166519/content.html" title="沙画丨半条被子的故事"  target="_blank">沙画丨半条被子的故事</a>
+                      <span class="xmt_type" style="display: none;"></span>
+                    </li>
+
+                    <li>
+                      <a href="/chinatax/n810219/n101397/c5166500/content.html" title="动漫丨《机动车发票使用办法》7月起正式施行！四大知识点要知道"  target="_blank">动漫丨《机动车发票使用办法》7月起正式施行！四大知识点要知道</a>
+                      <span class="xmt_type" style="display: none;"></span>
+                    </li>
+
+                    <li>
+                      <a href="/chinatax/n810219/n101397/c5166693/content.html" title="动漫｜朱青：以服务纳税人缴费人为中心 推进税收现代化"  target="_blank">动漫｜朱青：以服务纳税人缴费人为中心 推进税收现代化</a>
+                      <span class="xmt_type" style="display: none;"></span>
+                    </li>
+
+                </ul>
+              </div>
+              <!-- 20201221  -->
+              <script type="text/javascript">
+                $(document).on('ready',function(){
+                  var winWidth = $(window).width();
+                  var szxwCon = $('.ml_meiti .xmt_list ul');
+                  var szxwCon1 = $('.ml_meiti .xmt_list');
+                  var tempLineNum = szxwCon.find('li:eq(0)').attr("data-line");
+                  console.log(tempLineNum)
+                  if(winWidth>991){
+                    if(tempLineNum == 9){
+                      szxwCon1.addClass('xmt-line-9');
+                    }
+                  }
+                });
+              </script>
+              <style> 
+                .xmt-line-9{
+                  height: 236px;
+                }
+              </style>
+              <!-- 20201221  -->
+              <!--  20200324 判断类型-根据摘要  -->
+              <script type="text/javascript">
+                $(document).on('ready',function(){
+                  var xmtTypes = $('.xmt_type');
+                  xmtTypes.each(function(){
+                    var tempTxt = $(this).text();
+                    var tempPerant = $(this).parent('li');
+                    if(tempPerant.length == 0 && $(this).siblings('.xmt-top-img-tip').length!==0){
+                      if(tempTxt == '' || tempTxt.indexOf('视频') !== -1){
+                        $(this).siblings('.xmt-top-img-tip').show();
+                      }else{
+                        $(this).siblings('.xmt-top-img-tip').hide();
+                      }
+                    }
+                    if(tempTxt == '' || tempTxt.indexOf('视频') !== -1){
+                      tempPerant.removeClass('').addClass('shipin');
+                    }else if(tempTxt.indexOf('音乐') !== -1){
+                      tempPerant.removeClass('').addClass('yinyue');
+                    }
+                    else if(tempTxt.indexOf('图片') !== -1){
+                      tempPerant.removeClass('').addClass('tupian');
+                    }
+                    else if(tempTxt.indexOf('电子书') !== -1){
+                      tempPerant.removeClass('').addClass('dianzishu');
+                    }
+                    else if(tempTxt.indexOf('问答') !== -1){
+                      tempPerant.removeClass('').addClass('wenda');
+                    }
+                  });
+                })
+              </script>
+
+            </div>
+          </div>
+
+          <!-- 20200324 新版 - 新增icon -end -->
+        </div>
+
+        <ul class="jzxx_b_tu">
+          <li class="jzxx-20200703">
+            <a href="javascript:;" title='局长信箱'>
+              <img src="/chinatax/xhtml/images/public/jzxx-icon-20200703.png">
+            </a>
+          </li>
+          <li class="sswfjj-20200703" title='税收违法行为检举'>
+            <a href="http://hd.chinatax.gov.cn/jzxx/sswfxw.html" target="_blank">
+              <img src="/chinatax/xhtml/images/public/sswfjj-icon-20200703.png">
+            </a>
+          </li>
+          <li class="jjpt-20200703" title='中央纪委国家监委驻国家税务总局纪检监察组网络举报平台'>
+            <a href="http://hd.chinatax.gov.cn/jzxx/swgbwj.html" target="_blank" >
+              <img src="/chinatax/xhtml/images/public/jjpt-icon-20200703.jpg">
+            </a>
+          </li>
+          <li class="hlwswdc-20201111" title='互联网+税务督查'>
+            <a href="http://hd.chinatax.gov.cn/jzxx/internetcontrol.html" target="_blank" >
+              <img src="/chinatax/xhtml/images/public/hlwswdc-icon-20201111.jpg">
+            </a>
+          </li>
+        </ul>
+        <!--end component HTML组件(new)-->
+      </div>
+    </div>
+    <!--main结束-->
+    <!--网站地图 相关链接开始-->
+    <div class="XXK_w">
+      <div class="XXK">
+        <div class="wzdt">
+          <div class="wzdt_t">
+            <ul class="xxkl_1">
+              <li>
+                <ul class="neiceng">
+                  <h3><a href="/chinatax/n810209/index.html" target="_blank">总局概况</a></h3>
+                  <li><a href="/chinatax/n810209/n810575/index.html" target="_blank">领导专栏</a></li>
+                  <li><a href="/chinatax/n810209/n810580//index.html" target="_blank">主要职能</a></li>
+                  <li><a href="/chinatax/n810209/n810585/index.html" target="_blank">内设机构</a></li>
+                  <li><a href="/chinatax/n810209/n810590/index.html" target="_blank">直属单位</a></li>
+                  <li><a href="/chinatax/n810209/c101645/c101652/index.html" target="_blank">派出机构</a></li>
+                </ul>
+              </li>
+              <li>
+                <ul class="neiceng">
+                  <h3><a href="/chinatax/n810214/index.html" target="_blank">信息公开</a></h3>
+                  <li><a href="/chinatax/n810214/n810606//index.html" target="_blank">通知公告</a></li>
+                  <li><a href="/chinatax/n810214/n810641/n2985871/n2986165/n810611////index.html" target="_blank">人事任免</a></li>
+                  <li><a href="/chinatax/n810214/n810621/index.html" target="_blank">政府采购</a></li>
+                  <li><a href="/chinatax/n810214/n810631/index.html" target="_blank">税收统计</a></li>
+                  <li><a href="/chinatax/n810214/n810641/index.html" target="_blank">政府信息公开</a></li>
+                </ul>
+              </li>
+              <li>
+                <ul class="neiceng">
+                  <h3><a href="/chinatax/n810219//index.html" target="_blank">新闻发布</a></h3>
+                  <li><a href="/chinatax/n810219/n810724/common_list_swxw.html" target="_blank">税务新闻</a></li>
+                  <li><a href="/chinatax/n810219/n810734/common_imglist5.html" target="_blank">视频新闻</a></li>
+                  <li><a href="/chinatax/n810219/n810780/common_mtsd_list.html" target="_blank">媒体视点</a></li>
+                  <li><a href="/chinatax/n810219/n810739/common_xwfb_list.html" target="_blank">各地动态</a></li>
+                  <li><a href="/chinatax/n810219/n1865308/common_xwfb_list.html" target="_blank">新闻发布会</a></li>
+                  <li><a href="/chinatax/n810219/n810744//index.html" target="_blank">专题专栏</a></li>
+                  <li><a href="/chinatax/n810219/n101397//index.html" target="_blank">新媒体</a></li>
+                </ul>
+              </li>
+              <li>
+                <ul class="neiceng">
+                  <h3><a href="/chinatax/n810341/index.html" target="_blank">税收政策</a></h3>
+                  <li><a href="/chinatax/n810341/n810755/common_zxwj_list.html" target="_blank">最新文件</a></li>
+                  <li><a href="/chinatax/n810341/n810760/common_zcjd_list.html" target="_blank">政策解读</a></li>
+                  <li><a href="/chinatax/n810341/n2340339/common_imglistwyc.html" target="_blank">图解税收</a></li>
+                  <li><a href="/chinatax/n810341/n810765/swgb.html" target="_blank">税务公报</a></li>
+                  <li><a href="/chinatax/n810341/n810770/common_list_ssty.html" target="_blank">税收条约</a></li>
+                  <li><a href="/chinatax/n810341/n3723562/common_imglistzczy.html" target="_blank">政策指引</a></li>
+                  <li><a href="/chinatax/n810341/n810825/index.html?title=" target="_blank">税收政策库</a></li>
+                </ul>
+              </li>
+              <li style='width:150px;'>
+                <ul class="neiceng">
+                  <h3 style='width:150px;'><a href="/chinatax/n810346/index.html" target="_blank">纳税服务</a></h3>
+                  <li><a href="https://12366.chinatax.gov.cn/" target="_blank">12366纳税服务平台</a></li> 
+                  <li><a href="https://12366.chinatax.gov.cn/bsznBLH/main" target="_blank">办税指南</a></li>
+                  <!--<li><a href="/chinatax/n810341/n810825/index.html" target="_blank">政策库查询</a></li>-->
+                  <li><a href="http://hd.chinatax.gov.cn/nszx/InitChukou.html" target="_blank">出口退税率查询</a></li>
+                  <li><a href="https://12366.chinatax.gov.cn/sszyfw/bulletinBoard/main" target="_blank">涉税专业服务机构查询</a></li>                          
+                  <li><a href="http://hd.chinatax.gov.cn/nszx/InitCredit.html" target="_blank">纳税信用A级纳税人名单</a></li>
+                  <li><a href="/chinatax/c101249/n2020011502/index.html" target="_blank">重大税收违法失信案件信息查询</a></li>                      
+                </ul>
+              </li>
+              <li>
+                <ul class="neiceng">
+                  <h3><a href="/chinatax/n810351/index.html" target="_blank">税务视频</a></h3>
+                  <li><a href="/chinatax/n810219/n810734/common_imglist5.html" target="_blank">新闻</a></li>
+                  <li><a href="/chinatax/n810351/n810906/common_imglist4.html" target="_blank">普法</a></li>
+                  <li><a href="/chinatax/n810351/n810911/common_imglist6.html" target="_blank">影视</a></li>
+                  <li><a href="/chinatax/n810351/n810916/common_imglist3.html" target="_blank">动漫</a></li>
+                </ul>
+              </li>
+              <li style='width:150px;'>
+                <ul class="neiceng">
+                  <h3><a href="/chinatax/n810356/index.html" target="_blank">互动交流</a></h3>
+                  <li><a href="javascript:;" class='jzxx-btn'>局长信箱</a></li>
+                  <li><a href="http://hd.chinatax.gov.cn/jzxx/sswfxw.html" target="_blank">税收违法行为检举</a></li>
+                  <li><a href="http://hd.chinatax.gov.cn/jzxx/swgbwj.html" target="_blank">税务干部违纪违法举报</a></li>
+                  <li><a href="http://hd.chinatax.gov.cn/jzxx/internetcontrol.html" target="_blank">互联网+税务督查</a></li>
+                  <li><a href="/chinatax/n810356/n810946/hudongjl_zxjl.html" target="_blank">在线访谈</a></li>
+                  <li><a href="/chinatax/n810356/n810961/yjzj_zjjg_list.html" target="_blank">意见征集</a></li>
+                  <li><a href="/chinatax/n810356/n3010387////index.html" target="_blank">回应关切</a></li>
+                  <li><a href="/chinatax/n810356/n3255681////index.html" target="_blank">留言公开</a></li>
+                  <!--<li><a href="/chinatax/n810356/n810951/index.html" target="_blank">微博微信</a></li>-->
+                  <!--<li><a href="" target="_blank" class="jiucuo2">网站纠错</a></li>-->
+                </ul>
+              </li>
+            </ul>
+            <ul class="xxkl_2" style="display:none">
+              <div class="xxk_t">
+                <div class="xxk_t_1 active">国家税务总局各省级税务局</div>
+                <div class="xxk_t_2">直属单位</div>
+                <div class="xxk_t_3">税务相关</div>
+                <div class="xxk_t_4">友情链接</div>
+              </div>
+              <div class="xxk_l">
+                <div class="xxkl_1">
+                  <ul>
+                    <li><a href="http://beijing.chinatax.gov.cn/" target="_blank">北京</a></li>
+                    <li><a href="http://tianjin.chinatax.gov.cn/" target="_blank">天津</a></li>
+                    <li><a href="http://hebei.chinatax.gov.cn" target="_blank">河北</a></li>
+                    <li><a href="http://shanxi.chinatax.gov.cn/" target="_blank">山西</a></li>
+                    <li><a href="http://neimenggu.chinatax.gov.cn" target="_blank">内蒙古</a></li>
+                    <li><a href="http://liaoning.chinatax.gov.cn/" target="_blank">辽宁</a></li>
+                    <li><a href="http://jilin.chinatax.gov.cn/" target="_blank">吉林</a></li>
+                    <li><a href="http://heilongjiang.chinatax.gov.cn/" target="_blank">黑龙江</a></li>
+                    <li><a href="http://shanghai.chinatax.gov.cn/" target="_blank">上海</a></li>
+                  </ul>
+                  <ul>
+                    <li><a href="http://jiangsu.chinatax.gov.cn/" target="_blank">江苏</a></li>
+                    <li><a href="http://zhejiang.chinatax.gov.cn/" target="_blank">浙江</a></li>
+                    <li><a href="http://anhui.chinatax.gov.cn/" target="_blank">安徽</a></li>
+                    <li><a href="http://fujian.chinatax.gov.cn/" target="_blank">福建</a></li>
+                    <li><a href="http://jiangxi.chinatax.gov.cn/" target="_blank">江西</a></li>
+                    <li><a href="http://shandong.chinatax.gov.cn/" target="_blank">山东</a></li>
+                    <li><a href="http://henan.chinatax.gov.cn" target="_blank">河南</a></li>
+                    <li><a href="http://hubei.chinatax.gov.cn/" target="_blank">湖北</a></li>
+                    <li><a href="http://hunan.chinatax.gov.cn/" target="_blank">湖南</a></li>
+                  </ul>
+                  <ul>
+                    <li><a href="http://guangdong.chinatax.gov.cn/" target="_blank">广东</a></li>
+                    <li><a href="http://guangxi.chinatax.gov.cn/" target="_blank">广西</a></li>
+                    <li><a href="http://hainan.chinatax.gov.cn/" target="_blank">海南</a></li>
+                    <li><a href="http://chongqing.chinatax.gov.cn" target="_blank">重庆</a></li>
+                    <li><a href="http://sichuan.chinatax.gov.cn/" target="_blank">四川</a></li>
+                    <li><a href="http://guizhou.chinatax.gov.cn" target="_blank">贵州</a></li>
+                    <li><a href="http://yunnan.chinatax.gov.cn/" target="_blank">云南</a></li>
+                    <li><a href="https://xizang.chinatax.gov.cn/" target="_blank">西藏</a></li>
+                    <li><a href="https://shaanxi.chinatax.gov.cn/" target="_blank">陕西</a></li>
+                  </ul>
+                  <ul>
+                    <li><a href="http://gansu.chinatax.gov.cn/" target="_blank">甘肃</a></li>
+                    <li><a href="http://qinghai.chinatax.gov.cn/" target="_blank">青海</a></li>
+                    <li><a href="http://ningxia.chinatax.gov.cn/" target="_blank">宁夏</a></li>
+                    <li><a href="http://xinjiang.chinatax.gov.cn/" target="_blank">新疆</a></li>
+                    <li><a href="http://dalian.chinatax.gov.cn/" target="_blank">大连</a></li>
+                    <li><a href="http://ningbo.chinatax.gov.cn/" target="_blank">宁波</a></li>
+                    <li><a href="http://xiamen.chinatax.gov.cn/" target="_blank">厦门</a></li>
+                    <li><a href="http://qingdao.chinatax.gov.cn/" target="_blank">青岛</a></li>
+                    <li><a href="http://shenzhen.chinatax.gov.cn/" target="_blank">深圳</a></li>
+                  </ul>
+                </div>
+                <div class="xxkl_2" style="display:none">
+                  <ul>
+                    <!--<li><a href="/chinatax/n810209/n810590/n1044718/index.html" target="_blank">税收科学研究所</a></li>-->
+                    <li><a href="http://www.tax-edu.net" target="_blank">国家税务总局税务干部学院</a></li>
+                    <li><a href="http://www.ctax.org.cn/" target="_blank">中国税务杂志社</a></li>
+                    <li><a href="http://www.ctaxnews.com.cn/" target="_blank">中国税务报社</a></li>
+                    <li><a href="http://www.taxation.cn" target="_blank">中国税务出版社</a></li>
+                  </ul>
+                </div>
+                <div class="xxkl_3" style="display:none">
+                  <ul>
+                    <li><a href="http://cti.ctax.org.cn/" target="_blank">中国税务学会</a></li>
+                    <li><a href="http://new.citri.org.cn/" target="_blank">中国国际税收研究会</a></li>
+                    <li><a href="http://www.cctaa.cn/" target="_blank">中国注册税务师协会</a></li>
+                    <li><a href="http://www.britacom.org/" target="_blank">“一带一路”税收征管合作机制</a></li>
+                    <!--<li><a href="http://sat.tax-edu.net/sk45/dt;jsessionid=5A62BE3FBDFD5770A10004F2C1D78CA0" target="_blank">中国税务网络大学</a></li>-->
+                  </ul>
+                </div>
+                <div class="xxkl_4" style="display:none">
+                  <ul style='width:109%;'>
+                    <li style='width:160px;'><a href="http://www.ndrc.gov.cn/" target="_blank">国家发展和改革委员会</a></li>
+                    <li><a href="http://www.mof.gov.cn/index.htm" target="_blank">财政部</a></li>
+                    <li><a href="http://www.mofcom.gov.cn/" target="_blank">商务部</a></li>
+                    <li><a href="http://www.pbc.gov.cn/" target="_blank">人民银行</a></li>
+                    <li><a href="http://www.audit.gov.cn/" target="_blank">审计署</a></li>
+                    <li><a href="http://www.customs.gov.cn/" target="_blank">海关总署</a></li>
+                  </ul>
+                  <ul style='width:109%;'>
+                    <li style='width:160px;'><a href="http://www.samr.gov.cn/" target="_blank">国家市场监督管理总局</a></li>
+                    <li><a href="http://www.ccpit.org/" target="_blank">中国贸促会</a></li>
+                    <li><a href="https://www.redcross.org.cn" target="_blank">中国红十字总会</a></li>
+                     <!--<li class="chang" style='width:160px;'><a href="http://zygjjg.12388.gov.cn/" target="_blank">中央和国家机关举报网站</a></li>      -->              
+                  </ul>
+                </div>
+
+              </div>
+              <div class="tupian"><a href="http://www.gov.cn/" target="_blank"></a></div>
+            </ul>
+          </div>
+          <div class="wzdt_b">
+            <div class="xxk_t_1 active">网站地图</div>
+            <div class="xxk_t_2">相关链接</div>
+          </div>
+          <script>
+            function setTab_wzdt(name,num,n){ 
+              for(i=1;i<=n;i++){ 
+                var menu=document.getElementById(name+i); 
+                var con=document.getElementById(name+"_"+"con"+i); 
+                menu.className=i==num?"spwzdt":"spxglj"; 
+                con.style.display=i==num?"block":"none"; } 
+            } 
+
+            $(document).ready(function(){
+              $(".wzdt .xxkl_2 a").click(function(){
+                var ym0=$(this).attr('href').replace(/^\s+|\s+$/g,"");
+                var ym0_27=ym0.substring(0,27);
+                var ym0_30=ym0.substring(0,30);
+                if(ym0_27=="http://www.chinatax.gov.cn/" || ym0=="http://www.chinatax.gov.cn/" || ym0_30=="/2013/n31886/n37074/index.html")
+                {
+                  return;
+                }else{
+                  return confirm('您访问的链接即将离开"国家税务总局"门户网站，是否继续？');
+                }
+              });
+              $('.zjgk_xl_r_b li a,.ssty .zuo_3').on('click',function(){
+                var _href = $(this).attr("href");
+                if(_href.indexOf('chinatax') !== -1){
+                  return true;
+                }else{
+                  return confirm('您访问的链接即将离开"国家税务总局"门户网站，是否继续？');
+                }
+              });
+            })
+          </script>
+        </div>
+      </div>
+    </div>
+    <div  class="tankuang"  style="display:none">
+      当前浏览器版本过低，建议使用ie8及以上，谷歌，火狐等浏览器。
+    </div>
+    <div class="paiochuang" style="display:none;">
+      <div class="guanbi" >
+        <img src="/chinatax/xhtml/images/public/close.jpg" alt="" >
+      </div>
+      <div class="tonggao">
+        <a href="/chinatax/n810219/n810744/c101706/index.html" class="tonggao-link-1" target="_blank">
+          <img src="/chinatax/xhtml/images/public/sjjwzqh-fixed-20201113.png" alt="">
+        </a>
+      </div>
+    </div>
+    <style>
+     
+    @media screen and (max-width: 768px){
+
+ .gszjnew{
+            display:none;
+          }
+          .sousuonew a{
+              background: #2957a2 !important;
+          
+          }
+		.yddtop {
+			width: 80%;
+			background: #1369c0;
+			padding: 20px 10%;
+			display: block;
+		}
+		
+		.topleft {
+			float: left;
+			width: 70%;
+		}
+		
+		.topleft a img {
+			width: 100%;
+		}
+		
+		.topright {
+			float: right;
+			padding-top: 15px;
+		}
+		.newtp1{
+			float: left;
+		}
+		.en{
+			float: left;
+		}
+		.en a{
+			color: white;
+			margin-left: 10px;
+		}
+		.img2{
+			display: none;
+		}
+		.sousuoinput{
+			width: 90%;
+		}
+		.sjsousuo{
+			display: block;
+			width: 100%;
+			margin-top: 20px;
+		}
+		.sjsousuo input{
+			width: 77%;
+		}
+		.img2{
+			display: none;
+		}
+          .img1,.img2{
+          margin-top:3px;
+                vertical-align: initial;
+          }
+		.sjsousuo{
+			display: none;
+		}
+.transToPc img {
+    display: none;
+}
+
+.sousuonew{
+width: 100%;
+}
+.sousuonew a{
+    position: relative;
+    top: 1px;
+width: 38px;
+    height: 28px;
+background: #FFF;
+}
+      .inputdiv{width:256px;
+      margin:0 auto;
+      }
+.sousuonew input{
+border-right: none;
+    width: 217px;
+    margin: 0;
+    padding: 0;
+    text-indent: 0.3em;
+}
+      #sosbtn img {
+    float: left;
+    margin: 7px 8px 0 10px;
+}
+}
+    </style>
+<style>
+.box .is{
+  width:1042px;
+}
+  #_span_jiucuo{
+  display:inline-block;
+    margin-top:25px;
+  }
+  #_span_jiucuo img{
+  width:110px;
+    height:55px;
+  }
+  .rights{width:458px !important;}
+  @media screen and (max-width:768px){
+        .sjd{
+          position: relative;
+        }
+      }
+  .box .lefts {
+    left:170px;
+}
+  .box .rights{
+  left:760px;
+  }
+</style>
+
+<div class="box">
+      	<div class="is">
+        	<div class="lefts">
+          		<div class="box_1">
+           		    <a href="http://bszs.conac.cn/sitename?method=show&id=0895F7C120836C12E053012819AC7E96" target="_blank"><img src="/chinatax/xhtml/images/public/sy_dz.png" alt="" /></a>
+          		</div>
+          		<div class="box_2">
+            		
+          		</div>
+          		<div class="box_3">
+            		<div class="head">
+              			<div class="text_1">
+                		          
+                			<a href="/chinatax/n1670141/index.html">访问统计</a><span>|</span>
+                			<a href="/chinatax/n1262558///index.html">网站管理 </a><span>|</span>
+
+                                 <a href="/chinatax/c101263/c61304/content.html"  target="_blank">联系我们</a>
+
+              			</div>
+            		</div>
+            		<div class="content">
+              			<p>
+                			 版权所有：国家税务总局 <span>网站标识码：bm29000002</span><br/>
+                          <a target="_blank" href="https://beian.miit.gov.cn">京ICP备13021685号-2</a><span><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11040102700073"><img src="/chinatax/xhtml/images/public/guohui.png" alt="" style="margin-top: -3px;">京公网安备 11040102700073号</a></span><br/>
+                          主办单位：国家税务总局 <span>地址：北京市西城区枣林前街68号</span><br/>
+                           
+             		 	</p>
+            		</div>
+          		</div>
+        	</div>
+        	<div class="rights">
+          		<div class="mi">
+                  <ul class="clearfix footer-ewm-2020">
+                  <!--<li>
+                    <a href="/chinatax/n1269690/appindex.html" target="_blank">
+                      <img src="/chinatax/xhtml/images/public/gszjapp-ewm-20200116.jpg" alt="">
+                      <span>税务总局客户端</span>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://etax.chinatax.gov.cn/" target="_blank">
+                      <img src="/chinatax/xhtml/images/public/gsapp-ewm-20200116.jpg" alt="">
+                      <span>个税APP</span>
+                    </a>
+                  </li>
+                  <li class="footer-wxwb">
+                    <div class="footer-wxwb-top">
+                      <a href="/chinatax/n810356/n810951/index.html" class="footer-wb" target="_blank">
+                        <img src="/chinatax/xhtml/images/public/wb-icon_20200116.png">
+                      </a>
+                      <a href="/chinatax/n810356/n810951/index.html" class="footer-wx" target="_blank">
+                        <img src="/chinatax/xhtml/images/public/wx-icon_20200116.png">
+                      </a>
+                    </div>
+                    <a href="/chinatax/n810356/n810951/index.html" target="_blank"><span>国家税务总局<br>微博、微信</span></a>
+                  </li>-->
+                    <li>
+                     <a class="ft-jiucuo-link" href="https://zfwzgl.www.gov.cn/exposure/jiucuo.html?site_code=bm29000002" target="_blank"><img style="margin-top: 20px; border: 0px currentColor; border-image: none; cursor: pointer;" src="/chinatax/xhtml/images/public/jiucuo.png"></a>
+                    </li>
+                    
+                </ul>
+            		<!--<a href="http://www.chinatax.gov.cn/n1269690/appindex.html" target="_blank"><img src="/chinatax/xhtml/images/public/sy_khd.jpg" alt="" /></a>
+            		<a href="/chinatax/n810356/n810951/index.html" target="_blank"><img src="/chinatax/xhtml/images/public/sy_wbtb.jpg" alt="" /></a>
+            		<a href="#"><img src="/chinatax/xhtml/images/public/sy_gs.jpg" alt="" /></a>-->
+          		</div>
+        	</div>
+        </div>
+    </div>
+
+	<div class="sjd">
+    	<p>版权所有：国家税务总局</p>
+      <div class="transToPc">
+     电脑版
+    </div>
+	</div>
+<script>
+  $(function(){
+  var url=window.location.href.substr(7);
+  console.log(url);
+  var jcUrl='https://zfwzgl.www.gov.cn/exposure/jiucuo.html?site_code=bm29000002&url='+url;
+  $('.ft-jiucuo-link').attr('href',jcUrl)
+   })
+</script>
+<script language="JavaScript">var _trackDataType = 'web';var _trackData = _trackData || [];</script>
+<script type="text/javascript" charset="utf-8" id="kpyfx_js_id_10003701" src="//fxsjcj.kaipuyun.cn/count/10003701/10003701.js"></script> 
+
+    <script> 
+      // 20201130 时政要闻 外链统计
+      $(document).on('ready',function(){
+        $('#jsrd_con2 li a').on('click',function(e){
+          var tempTitle = $(this).text();
+          e.preventDefault();
+          _trackData.push(['addaction','首页','时政要闻',{'文章标题':tempTitle}]);
+          setTimeout('window.open("'+$(this).attr('href')+'");',100)
+        })
+      })
+    </script>
+
+    <!-- 20200121 添加右侧悬浮，个人APP，微信，微博，返回顶部；具有展开收起功能   -->
+    <div class="fixed-right-box">
+      <ul>
+        <li class="fixed-right-box-icon1">
+          <a href="https://etax.chinatax.gov.cn" target="_blank">
+            <em>个税<br>APP</em>
+          </a>
+          <span class="pub-right-ewm">
+            <img src="/chinatax/xhtml/images/public/gsapp-ewm-20200116.jpg">
+          </span>
+        </li>
+        <li class="fixed-right-box-icon2">
+          <a href="/chinatax/n810356/n810951/n1056632/index.html" target="_blank">
+            <em></em>
+          </a>
+          <span class="pub-right-ewm">
+            <img src="/chinatax/xhtml/images/hdjl/wx.jpg">
+          </span>
+        </li>
+        <li class="fixed-right-box-icon3">
+          <a href="/chinatax/n810356/n810951/n1056633/index.html" target="_blank">
+            <em></em>
+          </a>
+          <span>
+            <a href="/chinatax/n810356/n810951/n1056633/index.html" style="color:#fff;text-decoration:none;" target="_blank">新浪微博</a>
+          </span>
+        </li>
+        <li class="fixed-right-box-icon4" id="goToTop"><em></em><span>返回顶部</span></li>
+      </ul>
+
+      <i class="stop i-8">收起</i>
+    </div>
+
+    <style type="text/css">
+      .fixed-right-box {
+        position: fixed;
+        right: 0;
+        top:50%;
+        width: 58px;
+        z-index: 5; 
+        margin-top: -270px;
+      }
+      .fixed-right-box li{
+        position:relative;
+        text-align:center;
+        margin-bottom:10px;
+      }
+      .fixed-right-box li em{
+        display:block;
+        width:56px;
+        cursor:pointer;
+        padding:8px 0 0;
+        height:44px;
+        border:1px solid #cbcbcb;
+        border-radius:6px;
+        position:relative;
+        z-index:7;
+      }
+      .fixed-right-box li span{
+        position: absolute;
+        z-index: 5;
+        color: #fff;
+        line-height: 54px;
+        font-size: 14px;
+        background: #02569e;  
+        opacity:0; 
+        -moz-opacity:0; 
+        border-radius: 3px;
+        width: 100px;
+        top: 0px;
+        left: -89px;
+        -webkit-transition: all .6s ease;
+        -moz-transition: all .6s ease;
+        -o-transition: all .6s ease;
+        transition: all .6s ease;
+        visibility:hidden;
+      }
+      .fixed-right-box li.hover-active em{
+        border:1px solid #02569e;
+      }
+      .fixed-right-box li.hover-active span{
+        left: -103px;  
+        opacity:1; 
+        -moz-opacity:1;
+        visibility:visible;
+      }
+      .fixed-right-box li span img{
+        width: 100%;
+      }
+
+      .fixed-right-box li span.pub-right-ewm{
+        border:1px solid #dfdfdf;
+        padding: 3px;
+        border-radius: 4px;
+        background-color: #fff;
+      }
+      .fixed-right-box li.hover-active span.pub-right-ewm{
+        left: -111px;
+      }
+      .fixed-right-box-icon1 em{
+        background:#fff url(/chinatax/xhtml/images/public/rightBar01.png) center center no-repeat;
+      }
+      .fixed-right-box-icon2 em{
+        background:#fff url(/chinatax/xhtml/images/public/rightBar02-20200519.png) center center no-repeat;
+      }
+      .fixed-right-box-icon3 em{
+        background:#fff url(/chinatax/xhtml/images/public/rightBar03-20200519.png) center center no-repeat;
+      }
+
+      .fixed-right-box-icon4 em{
+        background:#fff url(/chinatax/xhtml/images/public/rightBar04.png) center center no-repeat;
+      }
+
+      .fixed-right-box-icon1.hover-active em{
+        background:#02569e url(/chinatax/xhtml/images/public/rightBar01-1.png) center center no-repeat;
+      }
+      .fixed-right-box-icon2.hover-active em{
+        background:#02569e url(/chinatax/xhtml/images/public/rightBar02-1.png) center center no-repeat;
+      }
+      .fixed-right-box-icon3.hover-active em{
+        background:#02569e url(/chinatax/xhtml/images/public/rightBar03-1.png) center center no-repeat;
+      }
+      .fixed-right-box-icon4.hover-active em{
+        background:#02569e url(/chinatax/xhtml/images/public/rightBar04-1.png) center center no-repeat;
+      }
+
+      .fixed-right-box i{
+        font-style:normal;
+        font-size:14px;
+        width:56px;
+        cursor:pointer;
+        height:30px;
+        color:#fff;
+        background: #02569e;
+        border:1px solid #02569e;
+        border-radius:6px;
+        display:block;
+        line-height:30px;
+        text-align:center;
+      }
+      .fixed-right-box i.hover-active{
+        padding-top:24px;
+        position:absolute;
+        top:0;
+        background:#02569e url(/chinatax/xhtml/images/public/rightBar05.png) center 5px no-repeat;
+      }
+      @media screen and (max-width:991px){
+        .fixed-right-box{
+          display:none;
+        }
+      }
+      .fixed-right-box-icon1 em, .fixed-right-box-icon5 em{
+        background-image:none;
+        background-color:#fff;
+        font-size:15px;
+        line-height:1.2;
+        color:#02569e;
+        font-style:normal;
+        font-weight:bold;
+      }
+      .fixed-right-box-icon1.hover-active em, .fixed-right-box-icon5.hover-active em{
+        color:#fff;
+        background-color:#02569e;
+        background-image:none;
+      }
+
+    </style>
+    <script type="text/javascript">
+      $(".fixed-right-box li").hover(function(){
+        $(this).addClass("hover-active");
+      },function(){
+        $(this).removeClass("hover-active");
+      });
+      $(".stop").click(function(){
+        $(".fixed-right-box ul").slideToggle(function() {
+          if ($(this).is(':hidden')) {
+            $(".stop").html('展开');
+            $(".stop").addClass("hover-active");
+          } else {
+            $(".stop").html('收起');
+            $(".stop").removeClass("hover-active");
+          }
+        });
+      });
+
+      $(".stop-left").click(function(){
+        $(".box1").slideToggle(function() {
+          if ($(this).is(':hidden')) {
+            $(".stop-left").html('展开');
+          } else {
+            $(".stop-left").html('收起');
+          }
+        });
+      });
+      $('#goToTop').click(function(){
+        $('html , body').animate({scrollTop: 0},'slow');
+      });
+    </script>
+    <!-- 20200121 添加右侧悬浮，个人APP，微信，微博，返回顶部；具有展开收起功能  -end  -->
+
+    <script>
+      setTimeout(function(){
+        $(".titBg").css("display","block") 
+        $(".subtitle").css("display","block") 
+      },1000)
+      var href1 = window.location.href
+      $(".jiucuo2").attr("href",'http://hd.chinatax.gov.cn/fuwu/jiucuo.html?src='+href1+'')
+      $(function(){
+        //var title_l = $(".newicon");
+        // for (var i=0;i<=title_l.length;i++) {
+        //   if(title_l.text()[i]=="是"){
+        //    $(".newicon").eq(i).siblings('li a').append('<img src="/chinatax/xhtml/images/public/new_icon.jpg">');
+        //   }
+        //  }
+        $(".newicon").each(function(){
+          if($(this).text().indexOf('是') !== -1 ){
+            $(this).prev('a').append('<img src="/chinatax/xhtml/images/public/new_icon.jpg">');
+          }
+        });
+
+        // 对新闻发布会动态添加实录，判断条件及实录地址固定
+        $('.ml_meiti_b_top li').each(function() {
+          var tempA = $(this).find('a').eq(0);
+          var tempText = tempA.text();
+          var tempNewImg = tempA.find('img');
+          var tempNewIcon = $(this).find('.newicon');
+          var isNew = false;
+
+          if(tempNewIcon.text() == '是'){
+            isNew = true;
+          }
+          if(tempText.indexOf('新闻发布会') !==-1 && tempText.indexOf('我为纳税人缴费人办实事暨便民办税春风行动') !==-1){
+            if(isNew){
+              tempA.find('img').remove();
+              $('<a href="/chinatax/n810219/n810724/c5161751/content.html" target="_blank">| 实录</a><img src="/chinatax/xhtml/images/public/new_icon.jpg">').insertAfter(tempA);
+            }else{
+              $('<a href="/chinatax/n810219/n810724/c5161751/content.html" target="_blank">| 实录</a>').insertAfter(tempA);
+            }
+            return false;
+          }
+
+        });
+      })
+      var userAgent = navigator.userAgent; //取得浏览器的userAgent字符串  
+      var isIE = userAgent.indexOf("compatible") > -1 && userAgent.indexOf("MSIE") > -1; //判断是否IE<11浏览器  
+      var isEdge = userAgent.indexOf("Edge") > -1 && !isIE; //判断是否IE的Edge浏览器  
+      var isIE11 = userAgent.indexOf('Trident') > -1 && userAgent.indexOf("rv:11.0") > -1;
+      if(isIE) {
+        var reIE = new RegExp("MSIE (\\d+\\.\\d+);");
+        reIE.test(userAgent);
+        var fIEVersion = parseFloat(RegExp["$1"]);
+        if(fIEVersion == 7) {
+          $(".tankuang").css("display","block") 
+          setTimeout(function(){
+            $(".tankuang").css("display","none") 
+          },5000)
+
+        } else if(fIEVersion == 8) {
+
+        } else if(fIEVersion == 9) {
+
+        } else if(fIEVersion == 10) {
+
+        } else {
+          //小于7
+          $(".tankuang").css("display","block") 
+          setTimeout(function(){
+            $(".tankuang").css("display","none") 
+          },5000)
+        }   
+      } else if(isEdge) {
+
+      } else if(isIE11) {
+
+      }else{
+
+      }
+      $(".guanbi").click(function(){
+
+        $(".paiochuang").css("display","none")
+      })
+
+    </script>
+
+    <script src="/chinatax/xhtml/js/idangerous.swiper.min.js"></script>
+    <script src="/chinatax/xhtml/js/gov_slides1.js"></script>
+    <script src="/chinatax/xhtml/js/shouye_1.js" type="text/javascript" charset="utf-8"></script>
+    <!--  20191223 点击“局长信箱” 弹窗  -->
+    <div class="jzxx-fixed" >
+      <div class="jzxx-fixed-bg"></div>
+      <div class="jzxx-fixed-content">
+        <a href="javascript:;" class="jzxx-fixed-close">关闭</a>
+        <h2>温馨提示</h2>
+        <div class="jzxx-fixed-context">
+          <h4>为提高对您来信的受理效率，减少转办环节</h4>
+          <ul>
+            <li>
+              <dl>
+                <dt>纳税咨询类问题请发往</dt>
+                <dd><a href="https://12366.chinatax.gov.cn/xiaohui/?guide=1.2">纳税咨询信箱</a></dd>
+              </dl>
+            </li>
+            <li>
+              <dl>
+                <dt>税收违法行为检举请发往</dt>
+                <dd><a href="http://hd.chinatax.gov.cn/jzxx/sswfxw.html">税收违法行为检举信箱</a></dd>
+              </dl>
+            </li>
+            <li>
+              <dl style='width: 503px;'>
+                <dt style='padding-top:18px;width: 261px;'>税务干部违纪违法举报请发往</dt>
+                <dd style='height:68px;line-height:24px;padding-top: 5px;padding-bottom: 5px; float: left;margin-left: 15px'><a href="http://hd.chinatax.gov.cn/jzxx/swgbwj.html">中央纪委国家监委驻国家税务总局纪检监察组网络举报平台</a></dd>
+              </dl>
+            </li>
+            <li>
+              <dl>
+                <dt>税收工作意见建议请发往</dt>
+                <dd><a href="http://hd.chinatax.gov.cn/jzxx/jzxx.html">局长信箱</a></dd>
+              </dl>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+
+    <style type="text/css">
+      .jzxx-fixed{
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 999;
+        display: none;
+      }
+      .jzxx-fixed-bg{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: #000;
+        opacity: 0.5;
+        filter: alpha(opacity=50);
+      }
+      .jzxx-fixed-close{
+        position: absolute;
+        top:12px;
+        right: 20px;
+        width: 25px;
+        height: 25px;
+        display: block;
+        background:url(/chinatax/xhtml/images/public/icon-close-temp-02.png) no-repeat center;
+        text-indent: -9999px;
+      }
+      .jzxx-fixed-content{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 650px;
+        height: 450px;
+        background-color: #fff;
+        border-radius: 20px;
+        margin: -220px 0 0 -325px;
+        overflow: hidden;
+      }
+      .jzxx-fixed-content h2{
+        display: block;
+        width: auto;
+        height: 50px;
+        line-height: 50px;
+        font-size: 24px;
+        font-weight: bold;
+        text-align: left;
+        background-color: #33589d;
+        padding:0 20px;
+        color: #fff;
+      }
+      .jzxx-fixed-context{
+        font-size: 16px;
+        line-height: 2;
+        color: #333;
+        padding: 35px 30px 30px;
+      }
+      .jzxx-fixed-context h4{
+        text-align: center;
+        font-size: 24px;
+        color: #33589d;
+        line-height: 1;
+        margin-bottom: 35px;
+      }
+      .jzxx-fixed-context p{
+        text-indent: 2em
+      }
+
+      .jzxx-fixed-context dl{
+        width: 430px;
+        margin: 0 auto 30px;
+        overflow: hidden;
+        line-height: 36px;
+      }
+      .jzxx-fixed-context dt{
+        float: left;
+        width: 220px;
+        font-size: 20px;
+        color: #333;
+        text-align: right;
+      }
+      .jzxx-fixed-context dd{
+        float: right;
+        width: 190px;
+        text-align: center;
+        height: 36px;
+        background-color: #33589d;
+        border-radius: 5px;
+        font-size: 16px;
+      }
+      .jzxx-fixed-context dd a{
+        display: block;
+        width: 100%;
+        height: 100%;
+        color: #fff;
+      }
+
+      @media screen and (max-width: 768px){
+        .jzxx-fixed-content{
+          width: 500px;
+          height: auto;
+          margin: 0 0 0 0;
+          transform: translate(-50%,-50%);
+        }
+        .jzxx-fixed-context{
+          padding: 25px 10px;
+        }
+        .jzxx-fixed-context h4{
+          font-size: 22px;
+        }
+        .jzxx-fixed-context dt{
+          font-size: 18px;
+        }
+        .jzxx-fixed-context dl{
+          margin-bottom: 20px;
+        }
+
+      }
+      @media screen and (max-width: 480px){
+        .jzxx-fixed-content{
+          width: 90%;
+
+        }
+        .jzxx-fixed-content h2{
+          font-size: 18px;
+        }
+        .jzxx-fixed-context h4{
+          font-size: 18px;
+          line-height: 1.4;
+        }
+        .jzxx-fixed-context dl{
+          width: 100%;
+          margin-bottom: 15px;
+        }
+        .jzxx-fixed-context dt{
+          width: 52%;
+          font-size: 16px;
+        }
+        .jzxx-fixed-context dd{
+          width: 46%;
+          font-size: 14px;
+        }
+      }
+      @media screen and (max-width: 375px){
+        .jzxx-fixed-context{
+          padding: 20px 10px 15px 10px;
+        }
+        .jzxx-fixed-context h4{
+          width: 80%;
+          margin: 0 auto 15px;
+          display: block;
+        }
+        .jzxx-fixed-context dl{
+          margin-bottom: 10px;
+        }
+        .jzxx-fixed-context dt{
+          float: none;
+          text-align: left;
+          width: 80%;
+          margin: 0 auto;
+        }
+        .jzxx-fixed-context dd{
+          float: none;
+          width: 80%;
+          margin: 0 auto;
+        }
+      }
+
+    </style>
+
+    <script>
+      $(document).on('ready',function(){
+        $('.jzxx-fixed-close').on('click',function(){
+          $(this).parents('.jzxx-fixed').hide();
+          return false;
+        });
+
+        $('.jzxx-btn,.jzxx-20200703 a,.jzxx-float-20200703 a').on('click',function(e){
+          $('.jzxx-fixed').show();
+          return false;
+        });
+      })
+    </script>
+    <!-- 在线访谈飘窗20201201 -->
+    <!--  <div class="piaochuang-zxft">
+      <div class="piaochuang-zxft-close">
+        <img src="/chinatax/xhtml/images/public/close.jpg">
+      </div>
+      <div class="piaochuang-zxft-content">
+        <a href="/chinatax/n810219/n810744/c101767//index.html" target="_blank">
+          <img src="/chinatax/xhtml/images/pic_20210401.jpg">
+        </a>
+      </div>
+    </div> -->
+    <style type="text/css">
+      .piaochuang-zxft{
+        position: fixed;
+        right: 0;
+        bottom: 0;
+        z-index: 999;
+      }
+      .piaochuang-zxft-close{
+        width: 50px;
+      }
+
+      @media screen and (max-height: 300px){
+        .piaochuang-zxft{
+          display: none;
+        }
+        .paiochuang{
+          display: none!important;
+        }
+        .fixed-right-box{
+          display: none;
+        }
+      }
+
+    </style>
+    <style>
+    .main .m_right .mr_bgc .mr_12366_c ul li:hover {
+    background: none;
+}
+/* 20210512移动端增加pc按钮 */
+      .transToMobile{
+        position: fixed;
+        right: 10px;
+        bottom: 4vh;
+        font-size:30px;
+        color: #fff;
+        background-color: #1369c0;
+        border-radius: 9px;
+        text-align: center;
+        line-height: 24px;
+        display: none;
+        height:50px;
+        line-height:50px;
+        width: 150px;
+      }
+      .transToPc{
+        display:none;
+      }
+      @media screen and (max-width: 414px){
+        .ywk{
+          padding-top: 20px;
+          padding-bottom: 15px;
+          padding-right: 25px;
+        }
+        .transToPc{
+          position: absolute;
+          top:17px;
+          right: 25px;
+          font-size: 14px;
+          color: #fff;
+          line-height: 24px;
+          display:block;
+        }
+        .transToPc img{
+          float: left;
+          width: auto;
+          margin-right: 5px;
+          height: 14px;
+          margin-top: 5px;
+        }
+
+      }
+    </style>
+    <div class="transToMobile">
+      移动端
+    </div>
+    <script type="text/javascript">
+      $(document).on('ready',function(){
+        $('.piaochuang-zxft-close').on('click',function(){
+          $('.piaochuang-zxft').hide();
+        })
+        //  20210512 切换至电脑端
+        $('.transToPc').on('click',function(){
+          var tempRadios = $(window).width()/1100;
+          $('meta[name=viewport]').attr('content','width=1100px, user-scalable=no, initial-scale='+tempRadios);
+          $('.fixed-right-box').hide();
+          $('.transToMobile').show();
+        })
+        $('.transToMobile').on('click',function(){
+          $('meta[name=viewport]').attr('content','width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0');
+          $('.transToPc').show();
+          $('.transToMobile').hide();
+        })
+      })
+    </script>
+    <script  defer  async  type="text/javascript" src="http://api.govwza.cn/cniil/assist.js?sid=2999&pos=left&bar=0"></script>
+  </body>
+
+</html>

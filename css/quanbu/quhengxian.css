@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+A:link{text-decoration:none;}
+A:visited{text-decoration:none;}
+A:active{text-decoration:none;}
+A:hover{text-decoration:underline; color:#F00}
+.ddd A:link{text-decoration:none; color:#000;}
+.ddd A:visited{text-decoration:none; color:#000;}
+.ddd A:active{text-decoration:none; color:#000;}
+.ddd A:hover{text-decoration:underline; color:#000;}

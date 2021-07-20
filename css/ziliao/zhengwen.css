@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+.biaoti1 {font-family:"黑体"; font-size:36px;}
+.biaoti2 {font-family:"黑体"; font-size:30px; padding:5px; margin-bottom:0px; line-height:40px;}
+.biaoti3 {font-family:"黑体"; font-size:26px; padding:0px; margin-bottom:0px;}
+.biaoti4 {font-family:"黑体"; font-size:23px; padding:0px; margin-bottom:0px;}
+.biaoge {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:25px; font-size:18px; text-align:justify; margin:0 0px; margin-top:5px;}
+.anli {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:20px; text-align:justify; margin:0 0px; margin-top:5px; width:100%;}
+.biaogeda {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:25px; font-size:18px; text-align:justify; margin:0 0px; margin-top:10px}
+.biaoge1 {border-top:solid 1px; border-left:solid 1px;}
+.biaoge2 {border-top:solid 1px; border-left:solid 1px; border-right:solid 1px;}
+.biaoge3 {border-top:solid 1px; border-left:solid 1px; border-bottom:solid 1px;}
+.biaoge4 {border-top:solid 1px; border-left:solid 1px; border-bottom:solid 1px; border-right:solid 1px;}
+.zhengwen0 {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:20px; text-align:justify; margin:0 0px;}
+.zhengwenbiaoge {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:18px; text-align:justify; margin:0 0px;}
+.zhengwen {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:20px; text-align:justify; margin:0 0px; margin-top:10px}
+.zhengwending {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:20px; text-align:center; margin:0 0px; margin-top:10px; color:red}/*标题下边写废止等信息使用*/
+.zhengwen1 {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:20px; text-align:justify; margin:0 0px; padding-left:1em}
+.zhengwen2 {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:20px; text-align:justify; margin:0 0px; padding-left:2em;}
+.zhengwen3 {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:25px; font-size:18px; text-align:justify; margin:0 0px; margin-top:5px}/*适用于关联文档部分，字符较小*/
+.zhengwen4 {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:20px; text-align:justify; margin:0 0px; padding-left:4em;}
+.bianqian2 {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:20px; margin:0 auto;}
+.zhengwenxinxi {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:20px;}
+.zhengwenyou {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:20px; text-align:right;}
+.biankuang {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:20px; text-align:justify; border:solid 1px #000000}
+.muluzhanshi {transition:height 2s;-moz-transition:height 2s;-webkit-transition:height 2s;-o-transition:height 2s;}
+.muluzhanshi:hover {height:900px}
+.yiji {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:30px; margin:0 0px; margin-bottom:10px; margin-top:20px;}
+.xiugai {color:#F00;}
+.shanchuxian {text-decoration:line-through}
+.xinzengxian {text-decoration:underline}
+.erji_hengxian {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:24px; margin:0 0px; text-decoration:underline;}
+.erji_hengxian_duanqian {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:24px; text-decoration:underline; margin:0 0px; margin-top:20px;}
+.erji_duanqian {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:24px; margin:0 0px; margin-top:20px;}
+.erji_suojin {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:24px;  padding-left:2em; text-align:justify; margin:0 0px;}
+.erji_duanqian_suojin {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:24px; font-size:24px; margin:0 0px; margin-top:20px; padding-left:2em;}
+.sanji {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:22px; text-indent:-2em; padding-left:2em; text-align:justify; margin:0 0px;}
+.sanji_duanqian {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:22px; text-indent:-2em; padding-left:2em; text-align:justify; margin:0 0px; margin-top:20px;}
+.sanji_suojin {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:22px;  padding-left:2em; text-align:justify; margin:0 0px;}
+.sanji_duanqian_suojin {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:22px;  padding-left:2em; text-align:justify; margin:0 0px; margin-top:20px;}
+.siji_suojin {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:24px;  padding-left:2em; text-align:justify; margin:0 0px;}
+.siji_duanqian_suojin {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:24px;  padding-left:2em; text-align:justify; margin:0 0px; margin-top:20px;}
+.zhengwen_en {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:20px; text-indent:-2em; padding-left:2em; text-align:justify; margin:0 0px;}
+.zhengwen_en_duanqian {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:20px; text-indent:-2em; padding-left:2em; text-align:justify; margin:0 0px; margin-top:20px;}
+.zhengwen_en_duanqian_suojin {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:20px; padding-left:2em; text-align:justify; margin:0 0px; margin-top:20px;}
+.zhengwen_en_suojin {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:20px; padding-left:2em; text-align:justify; margin:0 0px;}
+.zhengwen_en_suojin0 {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:20px; text-align:justify; margin:0 0px;}
+.zhengwen_en_suojin2 {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:20px; text-indent:-2em; padding-left:4em; text-align:justify; margin:0 0px;}
+.zhengwen_en_suojin3 {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:20px; text-indent:-2em; padding-left:6em; text-align:justify; margin:0 0px;}
+.zhengwen_en_suojin {font-family:Arial Narrow, Arial, "楷体", "宋体"; line-height:30px; font-size:20px; padding-left:2em; text-align:justify; margin:0 0px;}
+.zhushi{color:#06F;}
+.zhushi:hover{cursor:pointer}
